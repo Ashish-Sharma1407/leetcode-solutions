@@ -74,5 +74,20 @@
     "runtime": 3,
     "memory": 20392000,
     "timestamp": 1779451709
+  },
+  "121": {
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0121-Best-Time-to-Buy-and-Sell-Stock.py",
+    "sha": "e1a904e91c2575d87e3b67f65ccd38e967639c90",
+    "runtime": 38,
+    "memory": 28732000,
+    "timestamp": 1779450720
   }
 }
