@@ -43,5 +43,20 @@
     "runtime": 0,
     "memory": 19404000,
     "timestamp": 1779556080
+  },
+  "1791": {
+    "title": "Richest Customer Wealth",
+    "slug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Matrix"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/1791-Richest-Customer-Wealth.py",
+    "sha": "bb38ffc1ce9b619a2207d0ae0f3949156a4cf054",
+    "runtime": 0,
+    "memory": 19532000,
+    "timestamp": 1779452464
   }
 }
