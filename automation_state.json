@@ -89,5 +89,21 @@
     "runtime": 38,
     "memory": 28732000,
     "timestamp": 1779450720
+  },
+  "53": {
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0053-Maximum-Subarray.py",
+    "sha": "879944f97028ad039a78129d5500dc80f7989ece",
+    "runtime": 46,
+    "memory": 31488000,
+    "timestamp": 1779441357
   }
 }
