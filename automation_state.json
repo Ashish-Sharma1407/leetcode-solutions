@@ -256,5 +256,20 @@
     "runtime": 0,
     "memory": 23860000,
     "timestamp": 1750968145
+  },
+  "20": {
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "tags": [
+      "String",
+      "Stack"
+    ],
+    "language": "C++",
+    "path": "topics/String/0020-Valid-Parentheses.cpp",
+    "sha": "a0e52ba4ece89ef40e51f99294f3fc2d7a82c4b5",
+    "runtime": 0,
+    "memory": 8772000,
+    "timestamp": 1750956467
   }
 }
