@@ -209,5 +209,20 @@
     "runtime": 0,
     "memory": 20696000,
     "timestamp": 1754931348
+  },
+  "155": {
+    "title": "Min Stack",
+    "slug": "min-stack",
+    "difficulty": "Medium",
+    "tags": [
+      "Stack",
+      "Design"
+    ],
+    "language": "C++",
+    "path": "topics/Stack/0155-Min-Stack.cpp",
+    "sha": "bf21f81273c7fac951c019c095f37bfac5a48506",
+    "runtime": 3,
+    "memory": 23192000,
+    "timestamp": 1751280099
   }
 }
