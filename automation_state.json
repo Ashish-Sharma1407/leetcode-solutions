@@ -151,5 +151,20 @@
     "runtime": 0,
     "memory": 20564000,
     "timestamp": 1779383733
+  },
+  "1603": {
+    "title": "Running Sum of 1d Array",
+    "slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/1603-Running-Sum-of-1d-Array.py",
+    "sha": "b408fe6da13a929eea81a7453c89de9fedafe21b",
+    "runtime": 0,
+    "memory": 19340000,
+    "timestamp": 1779381531
   }
 }
