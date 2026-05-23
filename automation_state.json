@@ -241,5 +241,20 @@
     "runtime": 1,
     "memory": 12712000,
     "timestamp": 1751128681
+  },
+  "283": {
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "language": "C++",
+    "path": "topics/Array/0283-Move-Zeroes.cpp",
+    "sha": "79b5b795eaf677339b9d0eb8b9d42462f798e483",
+    "runtime": 0,
+    "memory": 23860000,
+    "timestamp": 1750968145
   }
 }
