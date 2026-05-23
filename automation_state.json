@@ -166,5 +166,19 @@
     "runtime": 0,
     "memory": 19340000,
     "timestamp": 1779381531
+  },
+  "620": {
+    "title": "Not Boring Movies",
+    "slug": "not-boring-movies",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0620-Not-Boring-Movies.py",
+    "sha": "5491f040e4f7b02bfbb5766680a5d17cc712e088",
+    "runtime": 212,
+    "memory": 0,
+    "timestamp": 1760083875
   }
 }
