@@ -136,5 +136,20 @@
     "runtime": 86,
     "memory": 22460000,
     "timestamp": 1779385454
+  },
+  "26": {
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0026-Remove-Duplicates-from-Sorted-Array.py",
+    "sha": "3d8c62d17167a5abc9b7b4198a440cab78fbe696",
+    "runtime": 0,
+    "memory": 20564000,
+    "timestamp": 1779383733
   }
 }
