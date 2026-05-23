@@ -224,5 +224,22 @@
     "runtime": 3,
     "memory": 23192000,
     "timestamp": 1751280099
+  },
+  "496": {
+    "title": "Next Greater Element I",
+    "slug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "language": "C++",
+    "path": "topics/Array/0496-Next-Greater-Element-I.cpp",
+    "sha": "4c1ea2304d4bc2b0129cf0ef20777245533b5054",
+    "runtime": 1,
+    "memory": 12712000,
+    "timestamp": 1751128681
   }
 }
