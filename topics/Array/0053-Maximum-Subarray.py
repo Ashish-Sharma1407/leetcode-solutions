@@ -3,17 +3,18 @@
 # ID       : 53
 # Difficulty: Medium
 # Tags     : Array, Divide and Conquer, Dynamic Programming
-# Runtime  : 90
-# Memory   : 32952000
+# Runtime  : 46
+# Memory   : 31488000
 # Language : Python3
-# Solved   : 2025-11-15 20:12
+# Solved   : 2026-05-22 09:15
 # URL      : https://leetcode.com/problems/maximum-subarray/
 ############################################################
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        curr_sum = nums[0]
-        max_sum = nums[0]
-        for i in range (1, len(nums)):
-            curr_sum = max(nums[i], curr_sum + nums[i])
-            max_sum = max(max_sum, curr_sum)
-        return max_sum
+        currsum = nums[0]
+        maxsum = nums[0]
+        for i in range(1,len(nums)):
+            currsum = max(nums[i], currsum + nums[i])
+            maxsum = max(currsum, maxsum)
+        return maxsum
+        
