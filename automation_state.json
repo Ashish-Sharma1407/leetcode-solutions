@@ -105,5 +105,21 @@
     "runtime": 46,
     "memory": 31488000,
     "timestamp": 1779441357
+  },
+  "941": {
+    "title": "Sort Array By Parity",
+    "slug": "sort-array-by-parity",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0941-Sort-Array-By-Parity.py",
+    "sha": "76e58b20776f60f56ece23ff42f599933a8efb33",
+    "runtime": 0,
+    "memory": 19888000,
+    "timestamp": 1779386525
   }
 }
