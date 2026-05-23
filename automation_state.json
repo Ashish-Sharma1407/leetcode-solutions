@@ -271,5 +271,20 @@
     "runtime": 0,
     "memory": 8772000,
     "timestamp": 1750956467
+  },
+  "24": {
+    "title": "Swap Nodes in Pairs",
+    "slug": "swap-nodes-in-pairs",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ],
+    "language": "C++",
+    "path": "topics/Linked-List/0024-Swap-Nodes-in-Pairs.cpp",
+    "sha": "c6500d2e19d41ad1ca41ff01aed9a79f55461794",
+    "runtime": 0,
+    "memory": 11068000,
+    "timestamp": 1750937694
   }
 }
