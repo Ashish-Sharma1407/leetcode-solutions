@@ -12,5 +12,20 @@
     "runtime": 43,
     "memory": 18940000,
     "timestamp": 1779556950
+  },
+  "2058": {
+    "title": "Concatenation of Array",
+    "slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Simulation"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/2058-Concatenation-of-Array.py",
+    "sha": "f63575fdcfbbde977d97b75363f3dbd813bd0928",
+    "runtime": 0,
+    "memory": 19276000,
+    "timestamp": 1779556260
   }
 }
