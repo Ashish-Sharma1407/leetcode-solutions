@@ -286,5 +286,20 @@
     "runtime": 0,
     "memory": 11068000,
     "timestamp": 1750937694
+  },
+  "1": {
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0001-Two-Sum.py",
+    "sha": "769fcc74230aeddc5d3511c256e33bfe353fed39",
+    "runtime": 4,
+    "memory": 20516000,
+    "timestamp": 1779625352
   }
 }
