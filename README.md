@@ -30,16 +30,16 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 13 |
+| 🟢 Easy | 14 |
 | 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
-| **Total**  | **19** |
+| **Total**  | **20** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 13 |
+| Array | 14 |
 | Two Pointers | 4 |
 | Dynamic Programming | 3 |
 | Stack | 3 |
@@ -47,13 +47,13 @@
 | Simulation | 2 |
 | Matrix | 2 |
 | Database | 2 |
+| Hash Table | 2 |
 | Greedy | 1 |
 | Divide and Conquer | 1 |
 | Sorting | 1 |
 | Prefix Sum | 1 |
 | Bit Manipulation | 1 |
 | Design | 1 |
-| Hash Table | 1 |
 | Monotonic Stack | 1 |
 | Linked List | 1 |
 | Recursion | 1 |
@@ -62,6 +62,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `4` | `20516000` | 2026-05-24 |
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 Easy | `43` | `18940000` | 2026-05-23 |
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `0` | `19276000` | 2026-05-23 |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19404000` | 2026-05-23 |
@@ -71,13 +72,12 @@
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `46` | `31488000` | 2026-05-22 |
 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 🟢 Easy | `0` | `19888000` | 2026-05-21 |
 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `86` | `22460000` | 2026-05-21 |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20564000` | 2026-05-21 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** May 24, 2026 at 05:30 PM IST
+📅 **Last updated:** May 24, 2026 at 07:23 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
