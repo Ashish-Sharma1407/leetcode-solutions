@@ -62,6 +62,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `47` | `31228000` | 2026-05-25 |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | `0` | `19316000` | 2026-05-24 |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | `0` | `19264000` | 2026-05-24 |
 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | `6` | `23516000` | 2026-05-24 |
@@ -71,13 +72,12 @@
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `0` | `19276000` | 2026-05-23 |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19404000` | 2026-05-23 |
 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | `0` | `19532000` | 2026-05-22 |
-| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `3` | `20392000` | 2026-05-22 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** May 25, 2026 at 05:57 PM IST
+📅 **Last updated:** May 25, 2026 at 09:07 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
