@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-105-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-60-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-42-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--05--26-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--05--27-blue?style=flat-square)
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-📅 **Last updated:** May 26, 2026 at 10:55 PM IST
+📅 **Last updated:** May 27, 2026 at 01:03 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
