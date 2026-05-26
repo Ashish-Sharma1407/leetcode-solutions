@@ -30,38 +30,41 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 17 |
+| 🟢 Easy | 18 |
 | 🟡 Medium | 7 |
 | 🔴 Hard | 0 |
-| **Total**  | **24** |
+| **Total**  | **25** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 14 |
+| Array | 15 |
 | Two Pointers | 7 |
 | String | 6 |
 | Dynamic Programming | 3 |
 | Stack | 3 |
+| Hash Table | 3 |
 | Simulation | 2 |
 | Matrix | 2 |
+| Sorting | 2 |
 | Database | 2 |
-| Hash Table | 2 |
+| Bit Manipulation | 2 |
 | Greedy | 1 |
 | Divide and Conquer | 1 |
-| Sorting | 1 |
 | Prefix Sum | 1 |
-| Bit Manipulation | 1 |
 | Design | 1 |
 | Monotonic Stack | 1 |
 | Linked List | 1 |
 | Recursion | 1 |
+| Math | 1 |
+| Binary Search | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20568000` | 2026-05-26 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `47` | `31228000` | 2026-05-25 |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | `0` | `19316000` | 2026-05-24 |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | `0` | `19264000` | 2026-05-24 |
@@ -71,13 +74,12 @@
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 Easy | `43` | `18940000` | 2026-05-23 |
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `0` | `19276000` | 2026-05-23 |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19404000` | 2026-05-23 |
-| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | `0` | `19532000` | 2026-05-22 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** May 26, 2026 at 07:23 PM IST
+📅 **Last updated:** May 26, 2026 at 10:55 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
