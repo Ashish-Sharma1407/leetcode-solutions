@@ -360,5 +360,24 @@
     "runtime": 11,
     "memory": 19728000,
     "timestamp": 1779631097
+  },
+  "268": {
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Binary Search",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0268-Missing-Number.py",
+    "sha": "a46c01baf80c3c6ff402a2e24fd15867bf17539a",
+    "runtime": 3,
+    "memory": 20568000,
+    "timestamp": 1779806286
   }
 }
