@@ -30,26 +30,27 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 18 |
+| 🟢 Easy | 19 |
 | 🟡 Medium | 7 |
 | 🔴 Hard | 0 |
-| **Total**  | **25** |
+| **Total**  | **26** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 15 |
-| Two Pointers | 7 |
+| Array | 16 |
+| Two Pointers | 8 |
 | String | 6 |
+| Hash Table | 4 |
 | Dynamic Programming | 3 |
+| Sorting | 3 |
 | Stack | 3 |
-| Hash Table | 3 |
 | Simulation | 2 |
 | Matrix | 2 |
-| Sorting | 2 |
 | Database | 2 |
 | Bit Manipulation | 2 |
+| Binary Search | 2 |
 | Greedy | 1 |
 | Divide and Conquer | 1 |
 | Prefix Sum | 1 |
@@ -58,12 +59,12 @@
 | Linked List | 1 |
 | Recursion | 1 |
 | Math | 1 |
-| Binary Search | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `0` | `19312000` | 2026-05-27 |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20568000` | 2026-05-26 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `47` | `31228000` | 2026-05-25 |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | `0` | `19316000` | 2026-05-24 |
@@ -73,13 +74,12 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `4` | `20516000` | 2026-05-24 |
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 Easy | `43` | `18940000` | 2026-05-23 |
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `0` | `19276000` | 2026-05-23 |
-| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19404000` | 2026-05-23 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** May 27, 2026 at 07:56 PM IST
+📅 **Last updated:** May 27, 2026 at 11:11 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
