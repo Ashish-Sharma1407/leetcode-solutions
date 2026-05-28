@@ -397,5 +397,22 @@
     "runtime": 0,
     "memory": 19312000,
     "timestamp": 1779900021
+  },
+  "387": {
+    "title": "First Unique Character in a String",
+    "slug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Queue",
+      "Counting"
+    ],
+    "language": "Python3",
+    "path": "topics/Hash-Table/0387-First-Unique-Character-in-a-String.py",
+    "sha": "6fded9a0dbd65196cdccd13d0d9a87efecac0b53",
+    "runtime": 89,
+    "memory": 19636000,
+    "timestamp": 1779987350
   }
 }
