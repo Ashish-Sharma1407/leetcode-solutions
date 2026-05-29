@@ -461,5 +461,22 @@
     "runtime": 26,
     "memory": 30204000,
     "timestamp": 1780086639
+  },
+  "1482": {
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting Sort"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/1482-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.py",
+    "sha": "9ec208c6d1c802c225ba8547223ec4978d7f6ece",
+    "runtime": 0,
+    "memory": 19220000,
+    "timestamp": 1780085490
   }
 }
