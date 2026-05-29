@@ -430,5 +430,21 @@
     "runtime": 10,
     "memory": 20512000,
     "timestamp": 1779986734
+  },
+  "242": {
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Hash-Table/0242-Valid-Anagram.py",
+    "sha": "ba9e3b7f8be256897e96deeb7a5e9afa5a2195e6",
+    "runtime": 20,
+    "memory": 20296000,
+    "timestamp": 1780056674
   }
 }
