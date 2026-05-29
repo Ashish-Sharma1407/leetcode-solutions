@@ -509,5 +509,19 @@
     "runtime": 21,
     "memory": 22008000,
     "timestamp": 1780082287
+  },
+  "1580": {
+    "title": "Shuffle the Array",
+    "slug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/1580-Shuffle-the-Array.py",
+    "sha": "173fdc04b578bab4317e32bc1d74e06503d4ff46",
+    "runtime": 58,
+    "memory": 19440000,
+    "timestamp": 1780082030
   }
 }
