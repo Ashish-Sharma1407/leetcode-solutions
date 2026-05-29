@@ -442,9 +442,9 @@
     ],
     "language": "Python3",
     "path": "topics/Hash-Table/0242-Valid-Anagram.py",
-    "sha": "ba9e3b7f8be256897e96deeb7a5e9afa5a2195e6",
-    "runtime": 20,
-    "memory": 20296000,
-    "timestamp": 1780056674
+    "sha": "cbfdd1a30136887b4e9cf0cf8ef1824d79fc955b",
+    "runtime": 15,
+    "memory": 19388000,
+    "timestamp": 1780057427
   }
 }
