@@ -478,5 +478,22 @@
     "runtime": 0,
     "memory": 19220000,
     "timestamp": 1780085490
+  },
+  "645": {
+    "title": "Set Mismatch",
+    "slug": "set-mismatch",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0645-Set-Mismatch.py",
+    "sha": "fefedd4e4a5bb89d795a34f2199bb2e5ae121985",
+    "runtime": 8,
+    "memory": 21232000,
+    "timestamp": 1780084261
   }
 }
