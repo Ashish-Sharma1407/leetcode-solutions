@@ -539,5 +539,22 @@
     "runtime": 8,
     "memory": 31400000,
     "timestamp": 1780161109
+  },
+  "49": {
+    "title": "Group Anagrams",
+    "slug": "group-anagrams",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0049-Group-Anagrams.py",
+    "sha": "f7e18a03d3725dbce13c25e05314a49953751336",
+    "runtime": 15,
+    "memory": 22128000,
+    "timestamp": 1780173837
   }
 }
