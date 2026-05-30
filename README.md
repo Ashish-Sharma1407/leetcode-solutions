@@ -30,20 +30,20 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 26 |
+| 🟢 Easy | 27 |
 | 🟡 Medium | 8 |
 | 🔴 Hard | 0 |
-| **Total**  | **34** |
+| **Total**  | **35** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 22 |
+| Array | 23 |
+| Hash Table | 10 |
 | Two Pointers | 9 |
-| Hash Table | 9 |
 | String | 8 |
-| Sorting | 6 |
+| Sorting | 7 |
 | Dynamic Programming | 3 |
 | Bit Manipulation | 3 |
 | Stack | 3 |
@@ -67,6 +67,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | `8` | `31400000` | 2026-05-30 |
 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 Easy | `26` | `30204000` | 2026-05-29 |
 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 Easy | `0` | `19220000` | 2026-05-29 |
 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | `8` | `21232000` | 2026-05-29 |
@@ -76,13 +77,12 @@
 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | `89` | `19636000` | 2026-05-28 |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `10` | `20512000` | 2026-05-28 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20268000` | 2026-05-28 |
-| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `0` | `19312000` | 2026-05-27 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** May 30, 2026 at 10:30 PM IST
+📅 **Last updated:** May 30, 2026 at 11:39 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
