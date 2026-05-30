@@ -523,5 +523,21 @@
     "runtime": 58,
     "memory": 19440000,
     "timestamp": 1780082030
+  },
+  "217": {
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0217-Contains-Duplicate.py",
+    "sha": "71475f9236ce071479a82bcae12a7b600a07db40",
+    "runtime": 8,
+    "memory": 31400000,
+    "timestamp": 1780161109
   }
 }
