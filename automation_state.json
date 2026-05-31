@@ -574,5 +574,22 @@
     "runtime": 5,
     "memory": 21128000,
     "timestamp": 1780246317
+  },
+  "3227": {
+    "title": "Find Missing and Repeated Values",
+    "slug": "find-missing-and-repeated-values",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Matrix"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/3227-Find-Missing-and-Repeated-Values.py",
+    "sha": "ccb073b509204dac7c215d5d728af816ed7c9e12",
+    "runtime": 24,
+    "memory": 19668000,
+    "timestamp": 1780259756
   }
 }
