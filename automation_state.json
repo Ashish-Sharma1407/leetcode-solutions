@@ -556,5 +556,23 @@
     "runtime": 15,
     "memory": 22128000,
     "timestamp": 1780173837
+  },
+  "169": {
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0169-Majority-Element.py",
+    "sha": "72aedf46f4ce7724e99d2393b4953e592217f195",
+    "runtime": 5,
+    "memory": 21128000,
+    "timestamp": 1780246317
   }
 }
