@@ -67,6 +67,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `49` | `31316000` | 2026-06-01 |
 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | `24` | `19668000` | 2026-05-31 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `5` | `21128000` | 2026-05-31 |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `15` | `22128000` | 2026-05-30 |
@@ -76,13 +77,12 @@
 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | `8` | `21232000` | 2026-05-29 |
 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `21` | `22008000` | 2026-05-29 |
 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `58` | `19440000` | 2026-05-29 |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `15` | `19388000` | 2026-05-29 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 01, 2026 at 12:22 PM IST
+📅 **Last updated:** June 01, 2026 at 06:04 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
