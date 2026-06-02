@@ -4,9 +4,9 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table
 # Runtime  : 3
-# Memory   : 20268000
+# Memory   : 20252000
 # Language : Python3
-# Solved   : 2026-05-28 16:37
+# Solved   : 2026-06-02 16:52
 # URL      : https://leetcode.com/problems/two-sum/
 ############################################################
 class Solution:
