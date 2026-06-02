@@ -67,6 +67,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20252000` | 2026-06-02 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `49` | `31316000` | 2026-06-01 |
 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | `24` | `19668000` | 2026-05-31 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `5` | `21128000` | 2026-05-31 |
@@ -76,13 +77,12 @@
 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 Easy | `0` | `19220000` | 2026-05-29 |
 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | `8` | `21232000` | 2026-05-29 |
 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `21` | `22008000` | 2026-05-29 |
-| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `58` | `19440000` | 2026-05-29 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 02, 2026 at 05:55 PM IST
+📅 **Last updated:** June 02, 2026 at 10:30 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
