@@ -147,10 +147,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0026-Remove-Duplicates-from-Sorted-Array.py",
-    "sha": "3d8c62d17167a5abc9b7b4198a440cab78fbe696",
-    "runtime": 0,
-    "memory": 20564000,
-    "timestamp": 1779383733
+    "sha": "8ee2b606e1fb49d2f639e83ead373a99f7481092",
+    "runtime": 1,
+    "memory": 20544000,
+    "timestamp": 1780507384
   },
   "1603": {
     "title": "Running Sum of 1d Array",
