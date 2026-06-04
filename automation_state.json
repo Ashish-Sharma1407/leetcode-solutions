@@ -505,10 +505,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0485-Max-Consecutive-Ones.py",
-    "sha": "74c2926756b7831f27b9a18e05802121864d80ee",
+    "sha": "8fa615843542605db672e00299858c9df06879aa",
     "runtime": 21,
-    "memory": 22008000,
-    "timestamp": 1780082287
+    "memory": 21824000,
+    "timestamp": 1780605686
   },
   "1580": {
     "title": "Shuffle the Array",
