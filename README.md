@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-111-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-64-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--04-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--05-blue?style=flat-square)
 
 </div>
 
@@ -30,20 +30,20 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 29 |
+| 🟢 Easy | 30 |
 | 🟡 Medium | 10 |
 | 🔴 Hard | 0 |
-| **Total**  | **39** |
+| **Total**  | **40** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 27 |
+| Array | 28 |
 | Hash Table | 13 |
-| Two Pointers | 10 |
+| Two Pointers | 11 |
+| Sorting | 10 |
 | String | 9 |
-| Sorting | 9 |
 | Matrix | 3 |
 | Dynamic Programming | 3 |
 | Bit Manipulation | 3 |
@@ -67,6 +67,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20292000` | 2026-06-04 |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | `0` | `19436000` | 2026-06-04 |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | `7` | `20420000` | 2026-06-04 |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `6` | `26496000` | 2026-06-04 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `1` | `20544000` | 2026-06-03 |
@@ -75,14 +77,12 @@
 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | `24` | `19668000` | 2026-05-31 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `5` | `21128000` | 2026-05-31 |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `15` | `22128000` | 2026-05-30 |
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | `8` | `31400000` | 2026-05-30 |
-| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 Easy | `26` | `30204000` | 2026-05-29 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 04, 2026 at 11:54 PM IST
+📅 **Last updated:** June 05, 2026 at 02:02 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
