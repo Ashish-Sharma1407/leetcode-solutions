@@ -67,22 +67,22 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20512000` | 2026-06-04 |
+| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `21` | `21824000` | 2026-06-04 |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20292000` | 2026-06-04 |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | `0` | `19436000` | 2026-06-04 |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | `7` | `20420000` | 2026-06-04 |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `6` | `26496000` | 2026-06-04 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `1` | `20544000` | 2026-06-03 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20472000` | 2026-06-03 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `49` | `31316000` | 2026-06-01 |
 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | `24` | `19668000` | 2026-05-31 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `5` | `21128000` | 2026-05-31 |
-| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `15` | `22128000` | 2026-05-30 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 05, 2026 at 02:02 AM IST
+📅 **Last updated:** June 05, 2026 at 03:49 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
