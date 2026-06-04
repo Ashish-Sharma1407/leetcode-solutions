@@ -591,5 +591,21 @@
     "runtime": 24,
     "memory": 19668000,
     "timestamp": 1780259756
+  },
+  "189": {
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0189-Rotate-Array.py",
+    "sha": "98687f97a70abc45b9e6c87649bd55fb278acda4",
+    "runtime": 6,
+    "memory": 26496000,
+    "timestamp": 1780567278
   }
 }
