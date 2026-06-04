@@ -251,11 +251,11 @@
       "Two Pointers"
     ],
     "language": "C++",
-    "path": "topics/Array/0283-Move-Zeroes.cpp",
-    "sha": "79b5b795eaf677339b9d0eb8b9d42462f798e483",
-    "runtime": 0,
-    "memory": 23860000,
-    "timestamp": 1750968145
+    "path": "topics/Array/0283-Move-Zeroes.py",
+    "sha": "8666ca5dd5cd7195e4581ee5d0db79c7c170c4c4",
+    "runtime": 7,
+    "memory": 20420000,
+    "timestamp": 1780572774
   },
   "20": {
     "title": "Valid Parentheses",
