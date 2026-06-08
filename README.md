@@ -67,7 +67,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20304000` | 2026-06-07 |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20464000` | 2026-06-08 |
 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `21` | `21824000` | 2026-06-04 |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20292000` | 2026-06-04 |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | `0` | `19436000` | 2026-06-04 |
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-📅 **Last updated:** June 08, 2026 at 09:13 PM IST
+📅 **Last updated:** June 08, 2026 at 11:54 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
