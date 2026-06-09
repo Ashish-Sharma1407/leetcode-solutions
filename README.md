@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-111-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-64-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--09-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--10-blue?style=flat-square)
 
 </div>
 
@@ -30,10 +30,10 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 30 |
-| 🟡 Medium | 10 |
+| 🟢 Easy | 31 |
+| 🟡 Medium | 11 |
 | 🔴 Hard | 0 |
-| **Total**  | **40** |
+| **Total**  | **42** |
 
 ## 🏷️ Topics Covered
 
@@ -41,13 +41,14 @@
 |:------|:---------------:|
 | Array | 28 |
 | Hash Table | 13 |
-| Two Pointers | 11 |
+| Two Pointers | 12 |
 | Sorting | 10 |
 | String | 9 |
 | Matrix | 3 |
 | Dynamic Programming | 3 |
 | Bit Manipulation | 3 |
 | Stack | 3 |
+| Linked List | 3 |
 | Math | 3 |
 | Binary Search | 3 |
 | Simulation | 2 |
@@ -58,7 +59,6 @@
 | Prefix Sum | 1 |
 | Design | 1 |
 | Monotonic Stack | 1 |
-| Linked List | 1 |
 | Recursion | 1 |
 | Queue | 1 |
 | Counting Sort | 1 |
@@ -67,7 +67,9 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20464000` | 2026-06-08 |
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `52` | `19564000` | 2026-06-09 |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `0` | `19324000` | 2026-06-09 |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20460000` | 2026-06-09 |
 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `21` | `21824000` | 2026-06-04 |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20292000` | 2026-06-04 |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | `0` | `19436000` | 2026-06-04 |
@@ -75,14 +77,12 @@
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `6` | `26496000` | 2026-06-04 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `1` | `20544000` | 2026-06-03 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `49` | `31316000` | 2026-06-01 |
-| [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | `24` | `19668000` | 2026-05-31 |
-| [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `5` | `21128000` | 2026-05-31 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 09, 2026 at 10:00 PM IST
+📅 **Last updated:** June 10, 2026 at 12:03 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
