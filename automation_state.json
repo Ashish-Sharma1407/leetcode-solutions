@@ -623,5 +623,19 @@
     "runtime": 0,
     "memory": 19436000,
     "timestamp": 1780604530
+  },
+  "237": {
+    "title": "Delete Node in a Linked List",
+    "slug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List"
+    ],
+    "language": "Python3",
+    "path": "topics/Linked-List/0237-Delete-Node-in-a-Linked-List.py",
+    "sha": "7fc75d84d6754ef1aedc7acd94f8452cac9d2522",
+    "runtime": 52,
+    "memory": 19564000,
+    "timestamp": 1781029895
   }
 }
