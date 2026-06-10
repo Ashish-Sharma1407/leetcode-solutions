@@ -67,9 +67,9 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20536000` | 2026-06-10 |
 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `52` | `19564000` | 2026-06-09 |
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `0` | `19324000` | 2026-06-09 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20460000` | 2026-06-09 |
 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `21` | `21824000` | 2026-06-04 |
 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20292000` | 2026-06-04 |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | `0` | `19436000` | 2026-06-04 |
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-📅 **Last updated:** June 10, 2026 at 08:56 PM IST
+📅 **Last updated:** June 10, 2026 at 11:44 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
