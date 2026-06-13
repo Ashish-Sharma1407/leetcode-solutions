@@ -3,10 +3,10 @@
 # ID       : 1
 # Difficulty: Easy
 # Tags     : Array, Hash Table
-# Runtime  : 0
-# Memory   : 20572000
+# Runtime  : 2
+# Memory   : 20408000
 # Language : Python3
-# Solved   : 2026-06-11 16:49
+# Solved   : 2026-06-13 12:36
 # URL      : https://leetcode.com/problems/two-sum/
 ############################################################
 class Solution:
