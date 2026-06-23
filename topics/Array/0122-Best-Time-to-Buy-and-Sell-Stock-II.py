@@ -3,10 +3,10 @@
 # ID       : 122
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Greedy
-# Runtime  : 3
-# Memory   : 20392000
+# Runtime  : 4
+# Memory   : 20444000
 # Language : Python3
-# Solved   : 2026-05-22 17:38
+# Solved   : 2026-06-19 11:37
 # URL      : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 ############################################################
 class Solution:
@@ -16,7 +16,7 @@ class Solution:
         for i in range(1,len(prices)):
             if prices[i] < buy:
                 buy = prices[i]
-            elif prices[i] > buy:
-                sell += prices[i]-buy
+            else:
+                sell = sell + (prices[i] - buy)
                 buy = prices[i]
         return sell
