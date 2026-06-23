@@ -442,10 +442,10 @@
     ],
     "language": "Python3",
     "path": "topics/Hash-Table/0242-Valid-Anagram.py",
-    "sha": "cbfdd1a30136887b4e9cf0cf8ef1824d79fc955b",
-    "runtime": 15,
-    "memory": 19388000,
-    "timestamp": 1780057427
+    "sha": "55eaf57852c33b0541fd25546b6ebbbf098417ca",
+    "runtime": 11,
+    "memory": 19240000,
+    "timestamp": 1782128632
   },
   "448": {
     "title": "Find All Numbers Disappeared in an Array",
