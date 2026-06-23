@@ -4,9 +4,9 @@
 # Difficulty: Easy
 # Tags     : String
 # Runtime  : 0
-# Memory   : 19316000
+# Memory   : 19236000
 # Language : Python3
-# Solved   : 2026-05-24 14:35
+# Solved   : 2026-06-22 08:56
 # URL      : https://leetcode.com/problems/length-of-last-word/
 ############################################################
 class Solution:
@@ -14,14 +14,9 @@ class Solution:
         s = s.strip()
         if len(s) <= 1:
             return 1
-        size = 0
-        ptr = len(s)-1
-        while ptr >= 0:
-            if s[ptr] == " ":
-                break
-            else:
-                size += 1
-                ptr -= 1
-        return size
-
-        
+        cnt = -1
+        while cnt >= -len(s):
+            if s[cnt] == " ":
+                return -cnt-1
+            cnt -= 1
+        return -cnt-1
