@@ -117,10 +117,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0941-Sort-Array-By-Parity.py",
-    "sha": "76e58b20776f60f56ece23ff42f599933a8efb33",
+    "sha": "6ed4ad522139ce38b2634d423beb13f34710226a",
     "runtime": 0,
-    "memory": 19888000,
-    "timestamp": 1779386525
+    "memory": 19748000,
+    "timestamp": 1781863442
   },
   "80": {
     "title": "Remove Duplicates from Sorted Array II",
