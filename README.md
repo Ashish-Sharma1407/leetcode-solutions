@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-111-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-64-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-44-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--19-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--23-blue?style=flat-square)
 
 </div>
 
@@ -67,22 +67,22 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20408000` | 2026-06-13 |
-| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `52` | `19564000` | 2026-06-09 |
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `0` | `19324000` | 2026-06-09 |
-| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `21` | `21824000` | 2026-06-04 |
-| [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | `3` | `20292000` | 2026-06-04 |
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | `0` | `19436000` | 2026-06-04 |
-| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | `7` | `20420000` | 2026-06-04 |
-| [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `6` | `26496000` | 2026-06-04 |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `1` | `20544000` | 2026-06-03 |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `49` | `31316000` | 2026-06-01 |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `11` | `19240000` | 2026-06-22 |
+| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | `64` | `19580000` | 2026-06-22 |
+| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `0` | `19360000` | 2026-06-22 |
+| [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `4` | `20540000` | 2026-06-22 |
+| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | `0` | `19236000` | 2026-06-22 |
+| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 Easy | `43` | `19040000` | 2026-06-22 |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20484000` | 2026-06-21 |
+| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19416000` | 2026-06-20 |
+| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | `0` | `19292000` | 2026-06-19 |
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `4` | `20444000` | 2026-06-19 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 19, 2026 at 09:28 AM IST
+📅 **Last updated:** June 23, 2026 at 04:33 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
