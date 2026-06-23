@@ -4,18 +4,12 @@
 # Difficulty: Easy
 # Tags     : String
 # Runtime  : 43
-# Memory   : 18940000
+# Memory   : 19040000
 # Language : Python3
-# Solved   : 2026-05-23 22:52
+# Solved   : 2026-06-22 08:10
 # URL      : https://leetcode.com/problems/defanging-an-ip-address/
 ############################################################
 class Solution:
     def defangIPaddr(self, address: str) -> str:
-        ans = ""
-        for i in range(len(address)):
-            if address[i] == ".":
-                ans += "[.]"
-            else:
-                ans += address[i]
-        return ans
+        return address.replace(".","[.]")
         
