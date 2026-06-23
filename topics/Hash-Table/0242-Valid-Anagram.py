@@ -3,34 +3,33 @@
 # ID       : 242
 # Difficulty: Easy
 # Tags     : Hash Table, String, Sorting
-# Runtime  : 15
-# Memory   : 19388000
+# Runtime  : 11
+# Memory   : 19240000
 # Language : Python3
-# Solved   : 2026-05-29 12:23
+# Solved   : 2026-06-22 11:43
 # URL      : https://leetcode.com/problems/valid-anagram/
 ############################################################
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-
+        
         if len(s) != len(t):
             return False
-
+        
         dic = {}
-        for i in range(len(s)):
-            if s[i] in dic:
-                dic[s[i]] += 1
+        for char in s:
+            if char in dic:
+                dic[char] += 1
             else:
-                dic.update({s[i]:1})
-
-        for i in range(len(t)):
-            if t[i] in dic:
-                dic[t[i]] -= 1
+                dic.update({char: 1})
         
-        if all(value == 0 for value in dic.values()):
+        for char in t:
+            if char in dic:
+                dic[char] -= 1
+            else:
+                return False
+        
+        if all(val == 0 for val in dic.values()):
             return True
-        else:
-            return False
-
-
-
         
+        return False
+
