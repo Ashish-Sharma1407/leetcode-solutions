@@ -3,10 +3,10 @@
 # ID       : 167
 # Difficulty: Medium
 # Tags     : Array, Two Pointers, Binary Search
-# Runtime  : 10
-# Memory   : 20512000
+# Runtime  : 4
+# Memory   : 20540000
 # Language : Python3
-# Solved   : 2026-05-28 16:45
+# Solved   : 2026-06-22 10:00
 # URL      : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 ############################################################
 class Solution:
