@@ -101,10 +101,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0053-Maximum-Subarray.py",
-    "sha": "8eaa63449a8f65bd3706220a3f0641aac3ac4aa4",
-    "runtime": 49,
-    "memory": 31316000,
-    "timestamp": 1780314490
+    "sha": "da511dcda116797e5fdc74cf6e7f7b8a6fe4df2b",
+    "runtime": 45,
+    "memory": 31396000,
+    "timestamp": 1781864325
   },
   "941": {
     "title": "Sort Array By Parity",
