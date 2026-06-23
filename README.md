@@ -71,9 +71,9 @@
 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | `64` | `19580000` | 2026-06-22 |
 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `0` | `19360000` | 2026-06-22 |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `4` | `20540000` | 2026-06-22 |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20492000` | 2026-06-22 |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | `0` | `19236000` | 2026-06-22 |
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 Easy | `43` | `19040000` | 2026-06-22 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20484000` | 2026-06-21 |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19416000` | 2026-06-20 |
 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | `0` | `19292000` | 2026-06-19 |
 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `4` | `20444000` | 2026-06-19 |
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-📅 **Last updated:** June 23, 2026 at 04:33 PM IST
+📅 **Last updated:** June 23, 2026 at 06:01 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
