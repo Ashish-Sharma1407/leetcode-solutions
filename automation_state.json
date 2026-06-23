@@ -652,5 +652,22 @@
     "runtime": 0,
     "memory": 19324000,
     "timestamp": 1781029119
+  },
+  "1987": {
+    "title": "Substrings of Size Three with Distinct Characters",
+    "slug": "substrings-of-size-three-with-distinct-characters",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window",
+      "Counting"
+    ],
+    "language": "Python3",
+    "path": "topics/Hash-Table/1987-Substrings-of-Size-Three-with-Distinct-Characters.py",
+    "sha": "5bf0220fee98e2b58010db0736499b4a972b2227",
+    "runtime": 0,
+    "memory": 19288000,
+    "timestamp": 1782223531
   }
 }
