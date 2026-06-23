@@ -311,10 +311,10 @@
     ],
     "language": "Python3",
     "path": "topics/String/0058-Length-of-Last-Word.py",
-    "sha": "7ec766f6b3556836e81b43c6c9f42dabefdae696",
+    "sha": "8ee473ddaa2541dc71e5d239fc6c5da5c50d368c",
     "runtime": 0,
-    "memory": 19316000,
-    "timestamp": 1779633333
+    "memory": 19236000,
+    "timestamp": 1782118614
   },
   "151": {
     "title": "Reverse Words in a String",
