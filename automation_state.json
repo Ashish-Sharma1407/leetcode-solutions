@@ -8,10 +8,10 @@
     ],
     "language": "Python3",
     "path": "topics/String/1205-Defanging-an-IP-Address.py",
-    "sha": "9f3c6eb8eb60db9d0af1a5a6d4daabd018aa3ec4",
+    "sha": "22c96eb31681cef5d040e4f57e8ed31151077b5f",
     "runtime": 43,
-    "memory": 18940000,
-    "timestamp": 1779556950
+    "memory": 19040000,
+    "timestamp": 1782115811
   },
   "2058": {
     "title": "Concatenation of Array",
