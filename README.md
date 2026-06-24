@@ -68,12 +68,12 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `4` | `20484000` | 2026-06-24 |
 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19288000` | 2026-06-23 |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `11` | `19240000` | 2026-06-22 |
 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | `64` | `19580000` | 2026-06-22 |
 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `0` | `19360000` | 2026-06-22 |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `4` | `20540000` | 2026-06-22 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20492000` | 2026-06-22 |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | `0` | `19236000` | 2026-06-22 |
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 Easy | `43` | `19040000` | 2026-06-22 |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19416000` | 2026-06-20 |
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-📅 **Last updated:** June 24, 2026 at 08:47 PM IST
+📅 **Last updated:** June 24, 2026 at 10:56 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
