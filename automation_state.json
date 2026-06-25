@@ -669,5 +669,21 @@
     "runtime": 0,
     "memory": 19288000,
     "timestamp": 1782223531
+  },
+  "3": {
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "language": "Python3",
+    "path": "topics/Hash-Table/0003-Longest-Substring-Without-Repeating-Characters.py",
+    "sha": "58cb9e48290039cfc275ae3e87770a91fd52b0eb",
+    "runtime": 11,
+    "memory": 19044000,
+    "timestamp": 1782396393
   }
 }
