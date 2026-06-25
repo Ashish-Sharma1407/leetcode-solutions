@@ -31,18 +31,18 @@
 | Difficulty | Count |
 |:----------:|:-----:|
 | 🟢 Easy | 32 |
-| 🟡 Medium | 11 |
+| 🟡 Medium | 12 |
 | 🔴 Hard | 0 |
-| **Total**  | **43** |
+| **Total**  | **44** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
 | Array | 28 |
-| Hash Table | 14 |
+| Hash Table | 15 |
 | Two Pointers | 12 |
-| String | 10 |
+| String | 11 |
 | Sorting | 10 |
 | Matrix | 3 |
 | Dynamic Programming | 3 |
@@ -55,6 +55,7 @@
 | Simulation | 2 |
 | Divide and Conquer | 2 |
 | Database | 2 |
+| Sliding Window | 2 |
 | Greedy | 1 |
 | Prefix Sum | 1 |
 | Design | 1 |
@@ -62,12 +63,12 @@
 | Recursion | 1 |
 | Queue | 1 |
 | Counting Sort | 1 |
-| Sliding Window | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19044000` | 2026-06-25 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `4` | `20484000` | 2026-06-24 |
 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19288000` | 2026-06-23 |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `11` | `19240000` | 2026-06-22 |
@@ -77,13 +78,12 @@
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | `0` | `19236000` | 2026-06-22 |
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 Easy | `43` | `19040000` | 2026-06-22 |
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19416000` | 2026-06-20 |
-| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | `0` | `19292000` | 2026-06-19 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 25, 2026 at 07:05 PM IST
+📅 **Last updated:** June 25, 2026 at 09:51 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
