@@ -68,7 +68,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19044000` | 2026-06-25 |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `15` | `19176000` | 2026-06-26 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `4` | `20484000` | 2026-06-24 |
 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19288000` | 2026-06-23 |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `11` | `19240000` | 2026-06-22 |
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-📅 **Last updated:** June 26, 2026 at 03:56 PM IST
+📅 **Last updated:** June 26, 2026 at 06:02 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
