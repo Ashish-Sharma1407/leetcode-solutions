@@ -3,10 +3,10 @@
 # ID       : 3
 # Difficulty: Medium
 # Tags     : Hash Table, String, Sliding Window
-# Runtime  : 11
-# Memory   : 19044000
+# Runtime  : 15
+# Memory   : 19176000
 # Language : Python3
-# Solved   : 2026-06-25 14:06
+# Solved   : 2026-06-26 10:30
 # URL      : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 ############################################################
 class Solution:
