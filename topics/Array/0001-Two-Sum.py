@@ -3,10 +3,10 @@
 # ID       : 1
 # Difficulty: Easy
 # Tags     : Array, Hash Table
-# Runtime  : 4
-# Memory   : 20484000
+# Runtime  : 3
+# Memory   : 20448000
 # Language : Python3
-# Solved   : 2026-06-24 17:17
+# Solved   : 2026-06-27 16:17
 # URL      : https://leetcode.com/problems/two-sum/
 ############################################################
 class Solution:
@@ -14,8 +14,9 @@ class Solution:
         dic = {}
         for i in range(len(nums)):
             if target - nums[i] in dic:
-                return [i,dic[target - nums[i]]]
+                return[dic[target - nums[i]], i]
             else:
-                dic.update({nums[i]:i})
-        return [-1,-1]
+                dic.update({nums[i]: i})
+        return[-1,-1]
+
         
