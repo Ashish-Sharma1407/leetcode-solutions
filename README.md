@@ -69,7 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `19` | `26324000` | 2026-06-28 |
+| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `1022` | `25936000` | 2026-06-28 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20484000` | 2026-06-28 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `15` | `19176000` | 2026-06-26 |
 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19288000` | 2026-06-23 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** June 29, 2026 at 02:28 AM IST
+📅 **Last updated:** June 29, 2026 at 03:34 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
