@@ -702,9 +702,9 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0948-Sort-an-Array.py",
-    "sha": "3a185cf57e5dd5fbcdbfc5489bd43cc25e3eeb09",
-    "runtime": 19,
-    "memory": 26324000,
-    "timestamp": 1782679022
+    "sha": "77e199be7e2c101e89ccdf407967524a032a3650",
+    "runtime": 1022,
+    "memory": 25936000,
+    "timestamp": 1782680487
   }
 }
