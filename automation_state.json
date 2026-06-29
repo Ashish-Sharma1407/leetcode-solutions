@@ -706,5 +706,20 @@
     "runtime": 1014,
     "memory": 25976000,
     "timestamp": 1782752095
+  },
+  "792": {
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0792-Binary-Search.py",
+    "sha": "5bd752ca68f0d2f9769cf9692188dc7acc1c6bdc",
+    "runtime": 0,
+    "memory": 20540000,
+    "timestamp": 1782766353
   }
 }
