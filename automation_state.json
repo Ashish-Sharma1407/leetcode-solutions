@@ -738,5 +738,21 @@
     "runtime": 59,
     "memory": 49032000,
     "timestamp": 1782764998
+  },
+  "75": {
+    "title": "Sort Colors",
+    "slug": "sort-colors",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0075-Sort-Colors.py",
+    "sha": "473835aca846dbfd12f55eb78818848140aa2b6f",
+    "runtime": 0,
+    "memory": 19324000,
+    "timestamp": 1782760788
   }
 }
