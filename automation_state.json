@@ -754,5 +754,20 @@
     "runtime": 0,
     "memory": 19324000,
     "timestamp": 1782760788
+  },
+  "35": {
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0035-Search-Insert-Position.py",
+    "sha": "c4de010e7683d1332921b9558f8eb4963f675b7b",
+    "runtime": 0,
+    "memory": 19964000,
+    "timestamp": 1782768615
   }
 }
