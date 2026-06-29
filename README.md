@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-113-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-65-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-45-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--29-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--06--30-blue?style=flat-square)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `1022` | `25936000` | 2026-06-28 |
+| [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `1014` | `25976000` | 2026-06-29 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20484000` | 2026-06-28 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `15` | `19176000` | 2026-06-26 |
 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19288000` | 2026-06-23 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** June 29, 2026 at 10:15 PM IST
+📅 **Last updated:** June 30, 2026 at 12:33 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
