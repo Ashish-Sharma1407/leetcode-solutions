@@ -721,5 +721,22 @@
     "runtime": 0,
     "memory": 20540000,
     "timestamp": 1782766353
+  },
+  "435": {
+    "title": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0435-Non-overlapping-Intervals.py",
+    "sha": "06b108b086434bfa5aa018d786181f398cb34212",
+    "runtime": 59,
+    "memory": 49032000,
+    "timestamp": 1782764998
   }
 }
