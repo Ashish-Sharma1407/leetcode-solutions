@@ -619,10 +619,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0088-Merge-Sorted-Array.py",
-    "sha": "acb65de0620e75135b1123c07c6221b5fad7989f",
+    "sha": "38f868ab60cd9e5e7614d90ff32242118423f86a",
     "runtime": 0,
-    "memory": 19436000,
-    "timestamp": 1780604530
+    "memory": 19292000,
+    "timestamp": 1782762218
   },
   "237": {
     "title": "Delete Node in a Linked List",
