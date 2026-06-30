@@ -845,5 +845,20 @@
     "runtime": 3,
     "memory": 19224000,
     "timestamp": 1782811756
+  },
+  "33": {
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0033-Search-in-Rotated-Sorted-Array.py",
+    "sha": "48ec328cf39d51faa490d2cf6873431c4f36f1db",
+    "runtime": 3,
+    "memory": 19320000,
+    "timestamp": 1782810569
   }
 }
