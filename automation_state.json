@@ -815,5 +815,20 @@
     "runtime": 0,
     "memory": 19688000,
     "timestamp": 1782815364
+  },
+  "907": {
+    "title": "Koko Eating Bananas",
+    "slug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0907-Koko-Eating-Bananas.py",
+    "sha": "7d429e9f5e12d551e6c984e084034b313af2cfb1",
+    "runtime": 155,
+    "memory": 20576000,
+    "timestamp": 1782814647
   }
 }
