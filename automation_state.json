@@ -769,5 +769,20 @@
     "runtime": 0,
     "memory": 19964000,
     "timestamp": 1782768615
+  },
+  "882": {
+    "title": "Peak Index in a Mountain Array",
+    "slug": "peak-index-in-a-mountain-array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0882-Peak-Index-in-a-Mountain-Array.py",
+    "sha": "be7e0f1ec6bbb790e520155d9b44d184e19e2af7",
+    "runtime": 0,
+    "memory": 31500000,
+    "timestamp": 1782807897
   }
 }
