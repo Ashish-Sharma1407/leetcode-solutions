@@ -31,20 +31,20 @@
 | Difficulty | Count |
 |:----------:|:-----:|
 | 🟢 Easy | 34 |
-| 🟡 Medium | 15 |
+| 🟡 Medium | 17 |
 | 🔴 Hard | 0 |
-| **Total**  | **49** |
+| **Total**  | **51** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 33 |
+| Array | 35 |
 | Hash Table | 15 |
 | Two Pointers | 13 |
 | Sorting | 13 |
 | String | 11 |
-| Binary Search | 5 |
+| Binary Search | 7 |
 | Dynamic Programming | 4 |
 | Matrix | 3 |
 | Divide and Conquer | 3 |
@@ -69,6 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | 🟡 Medium | `0` | `31500000` | 2026-06-30 |
+| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | `0` | `20564000` | 2026-06-30 |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | `0` | `19964000` | 2026-06-29 |
 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | `0` | `20540000` | 2026-06-29 |
 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | `59` | `49032000` | 2026-06-29 |
@@ -77,14 +79,12 @@
 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `1014` | `25976000` | 2026-06-29 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20484000` | 2026-06-28 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `15` | `19176000` | 2026-06-26 |
-| [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19288000` | 2026-06-23 |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `11` | `19240000` | 2026-06-22 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** June 30, 2026 at 10:13 AM IST
+📅 **Last updated:** June 30, 2026 at 01:58 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
