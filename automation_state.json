@@ -830,5 +830,20 @@
     "runtime": 155,
     "memory": 20576000,
     "timestamp": 1782814647
+  },
+  "69": {
+    "title": "Sqrt(x)",
+    "slug": "sqrtx",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "path": "topics/Math/0069-Sqrt(x).py",
+    "sha": "b8461607f91871cfb9d3f65899a6a844b5ba99c4",
+    "runtime": 3,
+    "memory": 19224000,
+    "timestamp": 1782811756
   }
 }
