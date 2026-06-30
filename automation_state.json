@@ -784,5 +784,20 @@
     "runtime": 0,
     "memory": 31500000,
     "timestamp": 1782807897
+  },
+  "34": {
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py",
+    "sha": "74e177f2a0b17ef9e17eedca1ab4d2d3897a2aa0",
+    "runtime": 0,
+    "memory": 20564000,
+    "timestamp": 1782806195
   }
 }
