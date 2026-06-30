@@ -799,5 +799,21 @@
     "runtime": 0,
     "memory": 20564000,
     "timestamp": 1782806195
+  },
+  "74": {
+    "title": "Search a 2D Matrix",
+    "slug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0074-Search-a-2D-Matrix.py",
+    "sha": "342cb108280aad30a8cd97d6b33d1e7d1c0750c0",
+    "runtime": 0,
+    "memory": 19688000,
+    "timestamp": 1782815364
   }
 }
