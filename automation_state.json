@@ -860,5 +860,20 @@
     "runtime": 3,
     "memory": 19320000,
     "timestamp": 1782810569
+  },
+  "206": {
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ],
+    "language": "Python3",
+    "path": "topics/Linked-List/0206-Reverse-Linked-List.py",
+    "sha": "183d65be36711012f229308858979953bc5663e5",
+    "runtime": 0,
+    "memory": 20432000,
+    "timestamp": 1782906082
   }
 }
