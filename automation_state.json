@@ -935,5 +935,21 @@
     "runtime": 109,
     "memory": 38264000,
     "timestamp": 1782926811
+  },
+  "2": {
+    "title": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "language": "Python3",
+    "path": "topics/Linked-List/0002-Add-Two-Numbers.py",
+    "sha": "df5836ec273de3d17f7f595684a7be268dc56ec9",
+    "runtime": 3,
+    "memory": 19412000,
+    "timestamp": 1782936072
   }
 }
