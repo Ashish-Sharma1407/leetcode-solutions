@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-117-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-67-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-47-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--02-blue?style=flat-square)
 
 </div>
 
@@ -31,9 +31,9 @@
 | Difficulty | Count |
 |:----------:|:-----:|
 | 🟢 Easy | 38 |
-| 🟡 Medium | 22 |
+| 🟡 Medium | 23 |
 | 🔴 Hard | 0 |
-| **Total**  | **60** |
+| **Total**  | **61** |
 
 ## 🏷️ Topics Covered
 
@@ -45,18 +45,18 @@
 | Sorting | 13 |
 | String | 11 |
 | Binary Search | 11 |
-| Linked List | 8 |
+| Linked List | 9 |
+| Math | 5 |
 | Matrix | 4 |
 | Dynamic Programming | 4 |
-| Math | 4 |
 | Divide and Conquer | 3 |
 | Bit Manipulation | 3 |
 | Stack | 3 |
+| Recursion | 3 |
 | Counting | 3 |
 | Simulation | 2 |
 | Greedy | 2 |
 | Database | 2 |
-| Recursion | 2 |
 | Counting Sort | 2 |
 | Sliding Window | 2 |
 | Prefix Sum | 1 |
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `3` | `19412000` | 2026-07-01 |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | `109` | `38264000` | 2026-07-01 |
 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | `0` | `19412000` | 2026-07-01 |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | `0` | `20432000` | 2026-07-01 |
@@ -78,13 +79,12 @@
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `0` | `19372000` | 2026-07-01 |
 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | `0` | `19688000` | 2026-06-30 |
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `155` | `20576000` | 2026-06-30 |
-| [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | `3` | `19224000` | 2026-06-30 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 01, 2026 at 11:53 PM IST
+📅 **Last updated:** July 02, 2026 at 01:53 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
