@@ -967,5 +967,21 @@
     "runtime": 50,
     "memory": 22404000,
     "timestamp": 1782940636
+  },
+  "141": {
+    "title": "Linked List Cycle",
+    "slug": "linked-list-cycle",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "language": "Python3",
+    "path": "topics/Hash-Table/0141-Linked-List-Cycle.py",
+    "sha": "8e5aa4ad0e2975136bcd765d95b9d904f321be38",
+    "runtime": 59,
+    "memory": 22552000,
+    "timestamp": 1782937443
   }
 }
