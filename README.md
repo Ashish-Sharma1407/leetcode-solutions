@@ -31,21 +31,21 @@
 | Difficulty | Count |
 |:----------:|:-----:|
 | 🟢 Easy | 37 |
-| 🟡 Medium | 21 |
+| 🟡 Medium | 22 |
 | 🔴 Hard | 0 |
-| **Total**  | **58** |
+| **Total**  | **59** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
 | Array | 38 |
+| Two Pointers | 15 |
 | Hash Table | 15 |
-| Two Pointers | 14 |
 | Sorting | 13 |
 | String | 11 |
 | Binary Search | 11 |
-| Linked List | 6 |
+| Linked List | 7 |
 | Matrix | 4 |
 | Dynamic Programming | 4 |
 | Math | 4 |
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | `0` | `19412000` | 2026-07-01 |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | `0` | `20432000` | 2026-07-01 |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | `0` | `19216000` | 2026-07-01 |
 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | `0` | `19304000` | 2026-07-01 |
@@ -78,13 +79,12 @@
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `155` | `20576000` | 2026-06-30 |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | `3` | `19224000` | 2026-06-30 |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | `3` | `19320000` | 2026-06-30 |
-| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | 🟡 Medium | `0` | `31500000` | 2026-06-30 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 01, 2026 at 06:49 PM IST
+📅 **Last updated:** July 01, 2026 at 09:35 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
