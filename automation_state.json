@@ -875,5 +875,19 @@
     "runtime": 0,
     "memory": 20432000,
     "timestamp": 1782906082
+  },
+  "83": {
+    "title": "Remove Duplicates from Sorted List",
+    "slug": "remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List"
+    ],
+    "language": "Python3",
+    "path": "topics/Linked-List/0083-Remove-Duplicates-from-Sorted-List.py",
+    "sha": "ed5ef657bdf848337a2760350ac940d8b866e4f6",
+    "runtime": 0,
+    "memory": 19216000,
+    "timestamp": 1782904724
   }
 }
