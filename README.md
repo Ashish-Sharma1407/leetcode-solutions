@@ -69,6 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `43` | `19484000` | 2026-07-01 |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `0` | `19372000` | 2026-07-01 |
 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | `0` | `19688000` | 2026-06-30 |
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `155` | `20576000` | 2026-06-30 |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | `3` | `19224000` | 2026-06-30 |
@@ -77,14 +79,12 @@
 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | `0` | `20564000` | 2026-06-30 |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | `0` | `19964000` | 2026-06-29 |
 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | `0` | `20540000` | 2026-06-29 |
-| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | `59` | `49032000` | 2026-06-29 |
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | `0` | `19292000` | 2026-06-29 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 01, 2026 at 11:54 AM IST
+📅 **Last updated:** July 01, 2026 at 03:59 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
