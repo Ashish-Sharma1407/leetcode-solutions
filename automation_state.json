@@ -919,5 +919,21 @@
     "runtime": 0,
     "memory": 19412000,
     "timestamp": 1782912063
+  },
+  "160": {
+    "title": "Intersection of Two Linked Lists",
+    "slug": "intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "language": "Python3",
+    "path": "topics/Hash-Table/0160-Intersection-of-Two-Linked-Lists.py",
+    "sha": "30db6c7a3e5f4cfe927128d6df2d9a2c36c3be97",
+    "runtime": 109,
+    "memory": 38264000,
+    "timestamp": 1782926811
   }
 }
