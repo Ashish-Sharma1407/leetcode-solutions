@@ -4,9 +4,9 @@
 # Difficulty: Easy
 # Tags     : Linked List, Two Pointers
 # Runtime  : 0
-# Memory   : 19324000
+# Memory   : 19372000
 # Language : Python3
-# Solved   : 2026-06-09 18:18
+# Solved   : 2026-07-01 09:30
 # URL      : https://leetcode.com/problems/middle-of-the-linked-list/
 ############################################################
 # Definition for singly-linked list.
