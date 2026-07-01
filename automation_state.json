@@ -904,5 +904,20 @@
     "runtime": 0,
     "memory": 19304000,
     "timestamp": 1782902350
+  },
+  "61": {
+    "title": "Rotate List",
+    "slug": "rotate-list",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "language": "Python3",
+    "path": "topics/Linked-List/0061-Rotate-List.py",
+    "sha": "312d6710d7a782c03e405b3080590041bb81d50b",
+    "runtime": 0,
+    "memory": 19412000,
+    "timestamp": 1782912063
   }
 }
