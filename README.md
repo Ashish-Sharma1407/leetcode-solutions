@@ -30,22 +30,22 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 38 |
-| 🟡 Medium | 23 |
+| 🟢 Easy | 39 |
+| 🟡 Medium | 24 |
 | 🔴 Hard | 0 |
-| **Total**  | **61** |
+| **Total**  | **63** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
 | Array | 38 |
-| Two Pointers | 16 |
-| Hash Table | 16 |
+| Two Pointers | 18 |
+| Hash Table | 18 |
 | Sorting | 13 |
 | String | 11 |
+| Linked List | 11 |
 | Binary Search | 11 |
-| Linked List | 9 |
 | Math | 5 |
 | Matrix | 4 |
 | Dynamic Programming | 4 |
@@ -69,6 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | `50` | `22404000` | 2026-07-01 |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `59` | `22552000` | 2026-07-01 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `3` | `19412000` | 2026-07-01 |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | `109` | `38264000` | 2026-07-01 |
 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | `0` | `19412000` | 2026-07-01 |
@@ -77,14 +79,12 @@
 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | `0` | `19304000` | 2026-07-01 |
 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `43` | `19484000` | 2026-07-01 |
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `0` | `19372000` | 2026-07-01 |
-| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | `0` | `19688000` | 2026-06-30 |
-| [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `155` | `20576000` | 2026-06-30 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 02, 2026 at 01:53 AM IST
+📅 **Last updated:** July 02, 2026 at 03:28 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
