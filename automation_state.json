@@ -889,5 +889,20 @@
     "runtime": 0,
     "memory": 19216000,
     "timestamp": 1782904724
+  },
+  "19": {
+    "title": "Remove Nth Node From End of List",
+    "slug": "remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "language": "Python3",
+    "path": "topics/Linked-List/0019-Remove-Nth-Node-From-End-of-List.py",
+    "sha": "ab8c89d992aaa52b0a96d247da2f22103f7c640d",
+    "runtime": 0,
+    "memory": 19304000,
+    "timestamp": 1782902350
   }
 }
