@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19216000` | 2026-07-02 |
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | `50` | `22404000` | 2026-07-01 |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `59` | `22552000` | 2026-07-01 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `3` | `19412000` | 2026-07-01 |
@@ -78,13 +79,12 @@
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | `0` | `19216000` | 2026-07-01 |
 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | `0` | `19304000` | 2026-07-01 |
 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `43` | `19484000` | 2026-07-01 |
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `0` | `19372000` | 2026-07-01 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 02, 2026 at 07:21 PM IST
+📅 **Last updated:** July 02, 2026 at 09:33 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
