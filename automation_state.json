@@ -983,5 +983,21 @@
     "runtime": 59,
     "memory": 22552000,
     "timestamp": 1782937443
+  },
+  "232": {
+    "title": "Implement Queue using Stacks",
+    "slug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "language": "Python3",
+    "path": "topics/Stack/0232-Implement-Queue-using-Stacks.py",
+    "sha": "563c645daa23157dfa17a1c6f512c1dbde4036f0",
+    "runtime": 0,
+    "memory": 19440000,
+    "timestamp": 1783162106
   }
 }
