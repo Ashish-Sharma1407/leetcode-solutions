@@ -999,5 +999,22 @@
     "runtime": 0,
     "memory": 19440000,
     "timestamp": 1783162106
+  },
+  "874": {
+    "title": "Backspace String Compare",
+    "slug": "backspace-string-compare",
+    "difficulty": "Easy",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "language": "Python3",
+    "path": "topics/Two-Pointers/0874-Backspace-String-Compare.py",
+    "sha": "53060090dcae8fc341f95718d07e33dd555dbb09",
+    "runtime": 0,
+    "memory": 19332000,
+    "timestamp": 1783199556
   }
 }
