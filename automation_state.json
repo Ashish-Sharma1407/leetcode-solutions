@@ -266,11 +266,11 @@
       "Stack"
     ],
     "language": "C++",
-    "path": "topics/String/0020-Valid-Parentheses.cpp",
-    "sha": "a0e52ba4ece89ef40e51f99294f3fc2d7a82c4b5",
-    "runtime": 0,
-    "memory": 8772000,
-    "timestamp": 1750956467
+    "path": "topics/String/0020-Valid-Parentheses.py",
+    "sha": "0a7b6a2b46f79dfc15aa4d767f84d1ea757dff47",
+    "runtime": 1,
+    "memory": 19220000,
+    "timestamp": 1783195546
   },
   "24": {
     "title": "Swap Nodes in Pairs",
