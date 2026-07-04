@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19220000` | 2026-07-04 |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `56` | `22436000` | 2026-07-04 |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | `0` | `19440000` | 2026-07-04 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `1` | `20464000` | 2026-07-03 |
@@ -78,13 +79,12 @@
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | `109` | `38264000` | 2026-07-01 |
 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | `0` | `19412000` | 2026-07-01 |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | `0` | `20432000` | 2026-07-01 |
-| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | `0` | `19216000` | 2026-07-01 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 05, 2026 at 12:01 AM IST
+📅 **Last updated:** July 05, 2026 at 01:37 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
