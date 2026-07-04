@@ -3,10 +3,10 @@
 # ID       : 141
 # Difficulty: Easy
 # Tags     : Hash Table, Linked List, Two Pointers
-# Runtime  : 59
-# Memory   : 22552000
+# Runtime  : 56
+# Memory   : 22436000
 # Language : Python3
-# Solved   : 2026-07-01 20:24
+# Solved   : 2026-07-04 11:53
 # URL      : https://leetcode.com/problems/linked-list-cycle/
 ############################################################
 # Definition for singly-linked list.
@@ -23,6 +23,5 @@ class Solution:
             fast = fast.next.next
             if slow == fast:
                 return True
-        else:
-            return False
+        return False
         
