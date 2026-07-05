@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | `0` | `19304000` | 2026-07-05 |
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | `0` | `19332000` | 2026-07-04 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19220000` | 2026-07-04 |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `56` | `22436000` | 2026-07-04 |
@@ -78,13 +79,12 @@
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | `50` | `22404000` | 2026-07-01 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `3` | `19412000` | 2026-07-01 |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | `109` | `38264000` | 2026-07-01 |
-| [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | `0` | `19412000` | 2026-07-01 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 05, 2026 at 03:10 PM IST
+📅 **Last updated:** July 05, 2026 at 04:58 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
