@@ -3,10 +3,10 @@
 # ID       : 2
 # Difficulty: Medium
 # Tags     : Linked List, Math, Recursion
-# Runtime  : 3
-# Memory   : 19412000
+# Runtime  : 6
+# Memory   : 19320000
 # Language : Python3
-# Solved   : 2026-07-01 20:01
+# Solved   : 2026-07-06 18:24
 # URL      : https://leetcode.com/problems/add-two-numbers/
 ############################################################
 # Definition for singly-linked list.
@@ -15,7 +15,9 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    def addTwoNumbers(
+        self, l1: Optional[ListNode], l2: Optional[ListNode]
+    ) -> Optional[ListNode]:
 
         curr1 = l1
         curr2 = l2
@@ -32,11 +34,11 @@ class Solution:
             if curr1 != None:
                 total += curr1.val
                 curr1 = curr1.next
-            
+
             if curr2 != None:
                 total += curr2.val
                 curr2 = curr2.next
-            
+
             if total > 9:
                 carry = 1
                 total -= 10
@@ -44,15 +46,10 @@ class Solution:
             newNode = ListNode(total)
             curr3.next = newNode
             curr3 = curr3.next
-        
+
         if carry > 0:
             newNode = ListNode(carry)
             curr3.next = newNode
             curr3 = curr3.next
 
         return ans.next
-            
-
-
-
-        
