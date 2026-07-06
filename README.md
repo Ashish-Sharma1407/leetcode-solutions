@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-119-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-69-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-47-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--06-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07-blue?style=flat-square)
 
 </div>
 
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `6` | `19320000` | 2026-07-06 |
 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | `0` | `19304000` | 2026-07-05 |
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | `0` | `19332000` | 2026-07-04 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19220000` | 2026-07-04 |
@@ -77,14 +78,13 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `1` | `20464000` | 2026-07-03 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19216000` | 2026-07-02 |
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | `50` | `22404000` | 2026-07-01 |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `3` | `19412000` | 2026-07-01 |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | `109` | `38264000` | 2026-07-01 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 06, 2026 at 10:50 PM IST
+📅 **Last updated:** July 07, 2026 at 12:44 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
