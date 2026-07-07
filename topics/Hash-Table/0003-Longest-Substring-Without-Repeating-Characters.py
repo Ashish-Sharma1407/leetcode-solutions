@@ -4,9 +4,9 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Sliding Window
 # Runtime  : 11
-# Memory   : 19216000
+# Memory   : 19320000
 # Language : Python3
-# Solved   : 2026-07-02 15:09
+# Solved   : 2026-07-07 16:20
 # URL      : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 ############################################################
 class Solution:
