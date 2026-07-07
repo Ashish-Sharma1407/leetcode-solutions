@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19320000` | 2026-07-07 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `6` | `19320000` | 2026-07-06 |
 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | `0` | `19304000` | 2026-07-05 |
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | `0` | `19332000` | 2026-07-04 |
@@ -76,7 +77,6 @@
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `56` | `22436000` | 2026-07-04 |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | `0` | `19440000` | 2026-07-04 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `1` | `20464000` | 2026-07-03 |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19216000` | 2026-07-02 |
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | `50` | `22404000` | 2026-07-01 |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | `109` | `38264000` | 2026-07-01 |
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** July 07, 2026 at 07:03 PM IST
+📅 **Last updated:** July 07, 2026 at 09:57 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
