@@ -1033,5 +1033,22 @@
     "runtime": 0,
     "memory": 19384000,
     "timestamp": 1783584306
+  },
+  "145": {
+    "title": "Binary Tree Postorder Traversal",
+    "slug": "binary-tree-postorder-traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Stack/0145-Binary-Tree-Postorder-Traversal.py",
+    "sha": "4e334549fcfd8bc18b576613334f1658cb405c48",
+    "runtime": 0,
+    "memory": 19472000,
+    "timestamp": 1783583079
   }
 }
