@@ -1,0 +1,78 @@
+############################################################
+# Problem  : Binary Tree Zigzag Level Order Traversal
+# ID       : 103
+# Difficulty: Medium
+# Tags     : Tree, Breadth-First Search, Binary Tree
+# Runtime  : 0
+# Memory   : 19524000
+# Language : Python3
+# Solved   : 2026-07-09 20:03
+# URL      : https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+############################################################
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Queue:
+
+    def __init__(self):
+        self.arr = []
+        self.length = 0
+        self.front = 0
+
+    def push(self, item):
+        self.arr.append(item)
+        self.length += 1
+
+    
+    def pop(self):
+        if len(self.arr) == 0:
+            return None
+        x = self.arr[self.front]
+        self.length -= 1
+        self.front += 1
+        return x
+
+    def front(self):
+        if len(self.arr) == 0:
+            return None
+        return self.arr[self.front]
+
+    def size(self):
+        return self.length
+
+            
+class Solution:
+    def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        
+        queue = Queue()
+        ans = []
+
+        if root is None:
+            return ans
+
+        queue.push(root)
+        ans.append([root.val])
+
+        while queue.size() > 0:
+            l = queue.size()
+            level = []
+            for i in range(l):
+                front = queue.pop()
+                
+                if front.left != None:
+                    queue.push(front.left)
+                    level.append(front.left.val)
+
+                if front.right != None:
+                    queue.push(front.right)
+                    level.append(front.right.val)
+            
+            if len(level) > 0:
+                if len(ans) % 2 == 1:
+                    level.reverse()
+                ans.append(level)
+        
+        return ans
