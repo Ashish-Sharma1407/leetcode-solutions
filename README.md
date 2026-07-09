@@ -11,9 +11,9 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-119-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-69-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-47-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-122-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-72-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-47-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--08-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--09-blue?style=flat-square)
 
 </div>
 
@@ -21,19 +21,19 @@
 
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
-| 🟢 Easy   | `69` | `█░░░░░░░░░░░░░░░░░░░` |
+| 🟢 Easy   | `72` | `█░░░░░░░░░░░░░░░░░░░` |
 | 🟡 Medium | `47` | `░░░░░░░░░░░░░░░░░░░░` |
 | 🔴 Hard   | `3` | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **`119`** | — |
+| **Total** | **`122`** | — |
 
 ## 📂 Solutions in Repository
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 41 |
+| 🟢 Easy | 44 |
 | 🟡 Medium | 24 |
 | 🔴 Hard | 0 |
-| **Total**  | **65** |
+| **Total**  | **68** |
 
 ## 🏷️ Topics Covered
 
@@ -46,7 +46,7 @@
 | String | 12 |
 | Linked List | 11 |
 | Binary Search | 11 |
-| Stack | 5 |
+| Stack | 8 |
 | Math | 5 |
 | Matrix | 4 |
 | Dynamic Programming | 4 |
@@ -55,20 +55,23 @@
 | Bit Manipulation | 3 |
 | Recursion | 3 |
 | Counting | 3 |
+| Tree | 3 |
+| Depth-First Search | 3 |
+| Binary Tree | 3 |
 | Greedy | 2 |
 | Database | 2 |
 | Design | 2 |
 | Queue | 2 |
 | Counting Sort | 2 |
 | Sliding Window | 2 |
-| Prefix Sum | 1 |
-| Monotonic Stack | 1 |
-| Heap (Priority Queue) | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | `0` | `19384000` | 2026-07-09 |
+| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `0` | `19472000` | 2026-07-09 |
+| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | `0` | `19308000` | 2026-07-08 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19320000` | 2026-07-07 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `6` | `19320000` | 2026-07-06 |
 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | `0` | `19304000` | 2026-07-05 |
@@ -76,15 +79,12 @@
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19220000` | 2026-07-04 |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `56` | `22436000` | 2026-07-04 |
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟢 Easy | `0` | `19440000` | 2026-07-04 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `1` | `20464000` | 2026-07-03 |
-| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | `50` | `22404000` | 2026-07-01 |
-| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | `109` | `38264000` | 2026-07-01 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 08, 2026 at 04:52 PM IST
+📅 **Last updated:** July 09, 2026 at 05:08 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
