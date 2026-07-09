@@ -1083,5 +1083,22 @@
     "runtime": 3,
     "memory": 20108000,
     "timestamp": 1783600020
+  },
+  "199": {
+    "title": "Binary Tree Right Side View",
+    "slug": "binary-tree-right-side-view",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0199-Binary-Tree-Right-Side-View.py",
+    "sha": "025e04bb21b6c037c64b67794858cb1113bc91ba",
+    "runtime": 4,
+    "memory": 19336000,
+    "timestamp": 1783628135
   }
 }
