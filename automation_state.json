@@ -1116,5 +1116,21 @@
     "runtime": 0,
     "memory": 19632000,
     "timestamp": 1783627652
+  },
+  "103": {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "slug": "binary-tree-zigzag-level-order-traversal",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0103-Binary-Tree-Zigzag-Level-Order-Traversal.py",
+    "sha": "5dcf95160cb41023fdeb761e3c3d94d3f4524780",
+    "runtime": 0,
+    "memory": 19524000,
+    "timestamp": 1783627398
   }
 }
