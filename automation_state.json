@@ -1067,5 +1067,21 @@
     "runtime": 0,
     "memory": 19308000,
     "timestamp": 1783511852
+  },
+  "102": {
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0102-Binary-Tree-Level-Order-Traversal.py",
+    "sha": "3016b65c5e1c5640fa9b45d8c36a643450de727c",
+    "runtime": 3,
+    "memory": 20108000,
+    "timestamp": 1783600020
   }
 }
