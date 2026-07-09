@@ -1016,5 +1016,22 @@
     "runtime": 0,
     "memory": 19332000,
     "timestamp": 1783199556
+  },
+  "94": {
+    "title": "Binary Tree Inorder Traversal",
+    "slug": "binary-tree-inorder-traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Stack/0094-Binary-Tree-Inorder-Traversal.py",
+    "sha": "7db5bf1567cd4c34a9d2b9494f4a2ab8553a8266",
+    "runtime": 0,
+    "memory": 19384000,
+    "timestamp": 1783584306
   }
 }
