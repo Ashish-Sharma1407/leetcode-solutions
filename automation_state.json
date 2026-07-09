@@ -1050,5 +1050,22 @@
     "runtime": 0,
     "memory": 19472000,
     "timestamp": 1783583079
+  },
+  "144": {
+    "title": "Binary Tree Preorder Traversal",
+    "slug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Stack/0144-Binary-Tree-Preorder-Traversal.py",
+    "sha": "3b1ee2a2e2ed3cd4543af84ad06c32629882c1da",
+    "runtime": 0,
+    "memory": 19308000,
+    "timestamp": 1783511852
   }
 }
