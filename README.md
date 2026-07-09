@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-123-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-72-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-48-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-126-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-72-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-51-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
 ![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--10-blue?style=flat-square)
 
@@ -22,18 +22,18 @@
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
 | 🟢 Easy   | `72` | `█░░░░░░░░░░░░░░░░░░░` |
-| 🟡 Medium | `48` | `░░░░░░░░░░░░░░░░░░░░` |
+| 🟡 Medium | `51` | `░░░░░░░░░░░░░░░░░░░░` |
 | 🔴 Hard   | `3` | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **`123`** | — |
+| **Total** | **`126`** | — |
 
 ## 📂 Solutions in Repository
 
 | Difficulty | Count |
 |:----------:|:-----:|
 | 🟢 Easy | 44 |
-| 🟡 Medium | 25 |
+| 🟡 Medium | 28 |
 | 🔴 Hard | 0 |
-| **Total**  | **69** |
+| **Total**  | **72** |
 
 ## 🏷️ Topics Covered
 
@@ -47,28 +47,31 @@
 | Linked List | 11 |
 | Binary Search | 11 |
 | Stack | 8 |
+| Tree | 7 |
+| Binary Tree | 7 |
 | Math | 5 |
 | Matrix | 4 |
 | Dynamic Programming | 4 |
-| Tree | 4 |
-| Binary Tree | 4 |
+| Depth-First Search | 4 |
+| Breadth-First Search | 4 |
 | Simulation | 3 |
 | Divide and Conquer | 3 |
 | Bit Manipulation | 3 |
 | Recursion | 3 |
 | Counting | 3 |
-| Depth-First Search | 3 |
 | Greedy | 2 |
 | Database | 2 |
 | Design | 2 |
 | Queue | 2 |
 | Counting Sort | 2 |
-| Sliding Window | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `4` | `19336000` | 2026-07-09 |
+| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | `0` | `19632000` | 2026-07-09 |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | `0` | `19524000` | 2026-07-09 |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | `3` | `20108000` | 2026-07-09 |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | `0` | `19384000` | 2026-07-09 |
 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `0` | `19472000` | 2026-07-09 |
@@ -76,15 +79,12 @@
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `11` | `19320000` | 2026-07-07 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `6` | `19320000` | 2026-07-06 |
 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | `0` | `19304000` | 2026-07-05 |
-| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 🟢 Easy | `0` | `19332000` | 2026-07-04 |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19220000` | 2026-07-04 |
-| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | `56` | `22436000` | 2026-07-04 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 10, 2026 at 01:10 AM IST
+📅 **Last updated:** July 10, 2026 at 02:50 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
