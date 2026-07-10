@@ -1181,5 +1181,21 @@
     "runtime": 0,
     "memory": 21232000,
     "timestamp": 1783691469
+  },
+  "783": {
+    "title": "Search in a Binary Search Tree",
+    "slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0783-Search-in-a-Binary-Search-Tree.py",
+    "sha": "612980e2ca82ebad53d5135572a4196c263bc2c9",
+    "runtime": 0,
+    "memory": 20964000,
+    "timestamp": 1783690016
   }
 }
