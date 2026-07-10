@@ -1132,5 +1132,21 @@
     "runtime": 0,
     "memory": 19524000,
     "timestamp": 1783627398
+  },
+  "110": {
+    "title": "Balanced Binary Tree",
+    "slug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0110-Balanced-Binary-Tree.py",
+    "sha": "f293e779cc77314abd5fe9bbcf3abbb8c8d3d973",
+    "runtime": 0,
+    "memory": 20496000,
+    "timestamp": 1783681978
   }
 }
