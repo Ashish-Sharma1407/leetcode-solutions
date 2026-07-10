@@ -1165,5 +1165,21 @@
     "runtime": 7,
     "memory": 22396000,
     "timestamp": 1783676026
+  },
+  "784": {
+    "title": "Insert into a Binary Search Tree",
+    "slug": "insert-into-a-binary-search-tree",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0784-Insert-into-a-Binary-Search-Tree.py",
+    "sha": "fe1cf20b22845e6dfd06a67ed2409245ef738507",
+    "runtime": 0,
+    "memory": 21232000,
+    "timestamp": 1783691469
   }
 }
