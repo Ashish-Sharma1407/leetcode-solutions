@@ -1148,5 +1148,22 @@
     "runtime": 0,
     "memory": 20496000,
     "timestamp": 1783681978
+  },
+  "104": {
+    "title": "Maximum Depth of Binary Tree",
+    "slug": "maximum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0104-Maximum-Depth-of-Binary-Tree.py",
+    "sha": "db2d58e49937f52b76b8c4d7f819b5ad6f52ea7d",
+    "runtime": 7,
+    "memory": 22396000,
+    "timestamp": 1783676026
   }
 }
