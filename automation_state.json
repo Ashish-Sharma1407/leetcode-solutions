@@ -1213,5 +1213,22 @@
     "runtime": 0,
     "memory": 22172000,
     "timestamp": 1783767232
+  },
+  "98": {
+    "title": "Validate Binary Search Tree",
+    "slug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "Python3",
+    "path": "topics/Tree/0098-Validate-Binary-Search-Tree.py",
+    "sha": "d79fbcb57f4ec870838ca4110a31b61ea98df5f3",
+    "runtime": 3,
+    "memory": 20852000,
+    "timestamp": 1783770998
   }
 }
