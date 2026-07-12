@@ -1230,5 +1230,23 @@
     "runtime": 3,
     "memory": 20852000,
     "timestamp": 1783770998
+  },
+  "215": {
+    "title": "Kth Largest Element in an Array",
+    "slug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0215-Kth-Largest-Element-in-an-Array.py",
+    "sha": "8a46943ab3f2e788d2d627c767d2d626765c19df",
+    "runtime": 252,
+    "memory": 35004000,
+    "timestamp": 1783843345
   }
 }
