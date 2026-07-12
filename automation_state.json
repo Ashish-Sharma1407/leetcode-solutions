@@ -1248,5 +1248,20 @@
     "runtime": 252,
     "memory": 35004000,
     "timestamp": 1783843345
+  },
+  "1127": {
+    "title": "Last Stone Weight",
+    "slug": "last-stone-weight",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Heap (Priority Queue)"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/1127-Last-Stone-Weight.py",
+    "sha": "5f04e7271fcd6b50366f1fd39a67d455eea38818",
+    "runtime": 0,
+    "memory": 19316000,
+    "timestamp": 1783847080
   }
 }
