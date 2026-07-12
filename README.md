@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-133-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-75-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-134-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-76-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-55-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
 ![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--12-blue?style=flat-square)
 
@@ -21,25 +21,25 @@
 
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
-| 🟢 Easy   | `75` | `█░░░░░░░░░░░░░░░░░░░` |
+| 🟢 Easy   | `76` | `█░░░░░░░░░░░░░░░░░░░` |
 | 🟡 Medium | `55` | `░░░░░░░░░░░░░░░░░░░░` |
 | 🔴 Hard   | `3` | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **`133`** | — |
+| **Total** | **`134`** | — |
 
 ## 📂 Solutions in Repository
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 47 |
+| 🟢 Easy | 48 |
 | 🟡 Medium | 32 |
 | 🔴 Hard | 0 |
-| **Total**  | **79** |
+| **Total**  | **80** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 39 |
+| Array | 40 |
 | Two Pointers | 19 |
 | Hash Table | 18 |
 | Sorting | 14 |
@@ -60,15 +60,16 @@
 | Bit Manipulation | 3 |
 | Recursion | 3 |
 | Counting | 3 |
+| Heap (Priority Queue) | 3 |
 | Greedy | 2 |
 | Database | 2 |
 | Design | 2 |
-| Queue | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | `0` | `19316000` | 2026-07-12 |
 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `252` | `35004000` | 2026-07-12 |
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `3` | `20852000` | 2026-07-11 |
 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | `0` | `22172000` | 2026-07-11 |
@@ -78,13 +79,12 @@
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | `7` | `22396000` | 2026-07-10 |
 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `4` | `19336000` | 2026-07-09 |
 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 Medium | `0` | `19632000` | 2026-07-09 |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 Medium | `0` | `19524000` | 2026-07-09 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 12, 2026 at 01:41 PM IST
+📅 **Last updated:** July 12, 2026 at 03:37 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
