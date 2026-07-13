@@ -1263,5 +1263,19 @@
     "runtime": 0,
     "memory": 19316000,
     "timestamp": 1783847080
+  },
+  "1212": {
+    "title": "Sequential Digits",
+    "slug": "sequential-digits",
+    "difficulty": "Medium",
+    "tags": [
+      "Enumeration"
+    ],
+    "language": "Python3",
+    "path": "topics/Enumeration/1212-Sequential-Digits.py",
+    "sha": "0bb4b57e89ed17cca841fa0305de2836a057409b",
+    "runtime": 0,
+    "memory": 19232000,
+    "timestamp": 1783937030
   }
 }
