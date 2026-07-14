@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19200000` | 2026-07-14 |
 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | `0` | `19232000` | 2026-07-13 |
 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | `0` | `19316000` | 2026-07-12 |
 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `252` | `35004000` | 2026-07-12 |
@@ -78,13 +79,12 @@
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | `0` | `20964000` | 2026-07-10 |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | `0` | `20496000` | 2026-07-10 |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | `7` | `22396000` | 2026-07-10 |
-| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 Medium | `4` | `19336000` | 2026-07-09 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 14, 2026 at 04:12 PM IST
+📅 **Last updated:** July 14, 2026 at 05:38 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
