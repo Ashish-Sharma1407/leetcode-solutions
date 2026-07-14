@@ -947,10 +947,10 @@
     ],
     "language": "Python3",
     "path": "topics/Linked-List/0002-Add-Two-Numbers.py",
-    "sha": "1cda27c03aa31baea74458f4b0a2b1a69e810309",
-    "runtime": 6,
-    "memory": 19320000,
-    "timestamp": 1783362257
+    "sha": "a5e9d28a913709e3be78a445f73b32e35e9d5658",
+    "runtime": 8,
+    "memory": 19200000,
+    "timestamp": 1784030573
   },
   "142": {
     "title": "Linked List Cycle II",
