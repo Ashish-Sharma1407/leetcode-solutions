@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `8` | `19256000` | 2026-07-15 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19200000` | 2026-07-14 |
 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | `0` | `19232000` | 2026-07-13 |
 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | `0` | `19316000` | 2026-07-12 |
@@ -78,13 +79,12 @@
 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | `0` | `21232000` | 2026-07-10 |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | `0` | `20964000` | 2026-07-10 |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | `0` | `20496000` | 2026-07-10 |
-| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | `7` | `22396000` | 2026-07-10 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 15, 2026 at 09:48 PM IST
+📅 **Last updated:** July 15, 2026 at 11:16 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
