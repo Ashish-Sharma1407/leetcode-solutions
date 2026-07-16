@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20320000` | 2026-07-16 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `8` | `19256000` | 2026-07-15 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19200000` | 2026-07-14 |
 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | `0` | `19232000` | 2026-07-13 |
@@ -78,13 +79,12 @@
 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | `0` | `22172000` | 2026-07-11 |
 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | `0` | `21232000` | 2026-07-10 |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | `0` | `20964000` | 2026-07-10 |
-| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | `0` | `20496000` | 2026-07-10 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 17, 2026 at 12:09 AM IST
+📅 **Last updated:** July 17, 2026 at 01:31 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
