@@ -30,10 +30,10 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 48 |
+| 🟢 Easy | 49 |
 | 🟡 Medium | 33 |
 | 🔴 Hard | 0 |
-| **Total**  | **81** |
+| **Total**  | **82** |
 
 ## 🏷️ Topics Covered
 
@@ -50,7 +50,7 @@
 | Binary Search | 11 |
 | Stack | 8 |
 | Depth-First Search | 7 |
-| Math | 5 |
+| Math | 6 |
 | Breadth-First Search | 5 |
 | Matrix | 4 |
 | Dynamic Programming | 4 |
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `14` | `19132000` | 2026-07-17 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20320000` | 2026-07-16 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `8` | `19256000` | 2026-07-15 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19200000` | 2026-07-14 |
@@ -78,13 +79,12 @@
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `3` | `20852000` | 2026-07-11 |
 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | `0` | `22172000` | 2026-07-11 |
 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | `0` | `21232000` | 2026-07-10 |
-| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 🟢 Easy | `0` | `20964000` | 2026-07-10 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 17, 2026 at 03:23 PM IST
+📅 **Last updated:** July 17, 2026 at 04:49 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
