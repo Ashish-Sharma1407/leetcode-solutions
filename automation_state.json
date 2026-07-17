@@ -1277,5 +1277,19 @@
     "runtime": 0,
     "memory": 19232000,
     "timestamp": 1783937030
+  },
+  "9": {
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "tags": [
+      "Math"
+    ],
+    "language": "Python3",
+    "path": "topics/Math/0009-Palindrome-Number.py",
+    "sha": "247f9b7bc91086209a1af2e59ea68ed45a6ab1d3",
+    "runtime": 14,
+    "memory": 19132000,
+    "timestamp": 1784284482
   }
 }
