@@ -69,8 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20536000` | 2026-07-18 |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `14` | `19132000` | 2026-07-17 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20320000` | 2026-07-16 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `8` | `19256000` | 2026-07-15 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19200000` | 2026-07-14 |
 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | `0` | `19232000` | 2026-07-13 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** July 18, 2026 at 05:28 PM IST
+📅 **Last updated:** July 18, 2026 at 06:52 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
