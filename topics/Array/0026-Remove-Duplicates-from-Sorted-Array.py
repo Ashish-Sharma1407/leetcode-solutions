@@ -4,21 +4,21 @@
 # Difficulty: Easy
 # Tags     : Array, Two Pointers
 # Runtime  : 0
-# Memory   : 20448000
+# Memory   : 20484000
 # Language : Python3
-# Solved   : 2026-06-19 09:44
+# Solved   : 2026-07-19 18:02
 # URL      : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 ############################################################
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        if len(nums) == 0:
-            return 0
-        i = 0
-        j = 1
-        for j in range(len(nums)):
-            if nums[j] != nums[i]:
-                i += 1
-                nums[i],nums[j] = nums[j],nums[i]
-        return i+1
+        start = 0
+        end = 0
+        while end < len(nums):
+            if nums[start] != nums[end]:
+                start += 1
+                nums[start], nums[end] = nums[end], nums[start]
+            end += 1
+        return start + 1
+        
 
         
