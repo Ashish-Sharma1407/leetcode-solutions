@@ -3,23 +3,23 @@
 # ID       : 169
 # Difficulty: Easy
 # Tags     : Array, Hash Table, Divide and Conquer, Sorting, Counting
-# Runtime  : 5
-# Memory   : 21128000
+# Runtime  : 8
+# Memory   : 21072000
 # Language : Python3
-# Solved   : 2026-05-31 16:51
+# Solved   : 2026-07-19 18:29
 # URL      : https://leetcode.com/problems/majority-element/
 ############################################################
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         freq = 0
         ans = 0
-        for val in nums:
+        for i in range(len(nums)):
             if freq == 0:
-                ans = val
+                ans = nums[i]
                 freq = 1
-            elif ans == val:
+            elif nums[i] == ans:
                 freq += 1
-            else:
+            else: 
                 freq -= 1
         return ans
         
