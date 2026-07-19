@@ -570,10 +570,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0169-Majority-Element.py",
-    "sha": "72aedf46f4ce7724e99d2393b4953e592217f195",
-    "runtime": 5,
-    "memory": 21128000,
-    "timestamp": 1780246317
+    "sha": "276717e16a097a591084f67bc450a78783cc7346",
+    "runtime": 8,
+    "memory": 21072000,
+    "timestamp": 1784485782
   },
   "3227": {
     "title": "Find Missing and Repeated Values",
