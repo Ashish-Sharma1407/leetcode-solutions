@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-135-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-76-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-56-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--19-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--20-blue?style=flat-square)
 
 </div>
 
@@ -69,6 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `8` | `21072000` | 2026-07-19 |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20484000` | 2026-07-19 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20536000` | 2026-07-18 |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `14` | `19132000` | 2026-07-17 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `8` | `19256000` | 2026-07-15 |
@@ -77,14 +79,12 @@
 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | `0` | `19316000` | 2026-07-12 |
 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `252` | `35004000` | 2026-07-12 |
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | `3` | `20852000` | 2026-07-11 |
-| [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 🟡 Medium | `0` | `22172000` | 2026-07-11 |
-| [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 🟡 Medium | `0` | `21232000` | 2026-07-10 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 19, 2026 at 11:26 PM IST
+📅 **Last updated:** July 20, 2026 at 12:32 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
