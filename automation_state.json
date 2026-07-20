@@ -85,10 +85,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0121-Best-Time-to-Buy-and-Sell-Stock.py",
-    "sha": "96b39342817c504cfa12cc7da6735fa4dcfde51d",
-    "runtime": 55,
-    "memory": 28552000,
-    "timestamp": 1781867522
+    "sha": "967662d575665c2a9eb765a15d641290964f9fad",
+    "runtime": 47,
+    "memory": 28652000,
+    "timestamp": 1784539498
   },
   "53": {
     "title": "Maximum Subarray",
