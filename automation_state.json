@@ -1291,5 +1291,21 @@
     "runtime": 14,
     "memory": 19132000,
     "timestamp": 1784284482
+  },
+  "28": {
+    "title": "Find the Index of the First Occurrence in a String",
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "String Matching"
+    ],
+    "language": "Python3",
+    "path": "topics/Two-Pointers/0028-Find-the-Index-of-the-First-Occurrence-in-a-String.py",
+    "sha": "d906e257a4f33123b0dd14d192005b8f61f057c1",
+    "runtime": 0,
+    "memory": 19140000,
+    "timestamp": 1784644921
   }
 }
