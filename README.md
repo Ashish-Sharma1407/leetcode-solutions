@@ -30,22 +30,22 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 49 |
+| 🟢 Easy | 50 |
 | 🟡 Medium | 33 |
 | 🔴 Hard | 0 |
-| **Total**  | **82** |
+| **Total**  | **83** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
 | Array | 40 |
-| Two Pointers | 19 |
+| Two Pointers | 20 |
 | Hash Table | 18 |
 | Sorting | 14 |
+| String | 13 |
 | Tree | 13 |
 | Binary Tree | 13 |
-| String | 12 |
 | Linked List | 11 |
 | Binary Search | 11 |
 | Stack | 8 |
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | `0` | `19140000` | 2026-07-21 |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `47` | `28652000` | 2026-07-20 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `8` | `21072000` | 2026-07-19 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20484000` | 2026-07-19 |
@@ -78,13 +79,12 @@
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19200000` | 2026-07-14 |
 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | `0` | `19232000` | 2026-07-13 |
 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 🟢 Easy | `0` | `19316000` | 2026-07-12 |
-| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | `252` | `35004000` | 2026-07-12 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 21, 2026 at 08:03 PM IST
+📅 **Last updated:** July 21, 2026 at 09:51 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
