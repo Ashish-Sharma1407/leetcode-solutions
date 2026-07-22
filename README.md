@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `0` | `19344000` | 2026-07-22 |
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | `0` | `19288000` | 2026-07-22 |
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | `0` | `19140000` | 2026-07-21 |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `47` | `28652000` | 2026-07-20 |
@@ -78,13 +79,12 @@
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `14` | `19132000` | 2026-07-17 |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `8` | `19256000` | 2026-07-15 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19200000` | 2026-07-14 |
-| [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | 🟡 Medium | `0` | `19232000` | 2026-07-13 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 22, 2026 at 05:17 PM IST
+📅 **Last updated:** July 22, 2026 at 08:07 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
