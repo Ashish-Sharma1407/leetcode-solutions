@@ -1307,5 +1307,21 @@
     "runtime": 0,
     "memory": 19140000,
     "timestamp": 1784644921
+  },
+  "3778": {
+    "title": "Transform Array by Parity",
+    "slug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Sorting",
+      "Counting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/3778-Transform-Array-by-Parity.py",
+    "sha": "f175a871fb9ed1795a68dcc6e4b564240874ea01",
+    "runtime": 1,
+    "memory": 19312000,
+    "timestamp": 1784755460
   }
 }
