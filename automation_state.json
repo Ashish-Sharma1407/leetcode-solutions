@@ -1063,10 +1063,10 @@
     ],
     "language": "Python3",
     "path": "topics/Stack/0144-Binary-Tree-Preorder-Traversal.py",
-    "sha": "3b1ee2a2e2ed3cd4543af84ad06c32629882c1da",
+    "sha": "c9c575c74e9e2b633f610ee5364e2895c68ba4cf",
     "runtime": 0,
-    "memory": 19308000,
-    "timestamp": 1783511852
+    "memory": 19288000,
+    "timestamp": 1784718401
   },
   "102": {
     "title": "Binary Tree Level Order Traversal",
