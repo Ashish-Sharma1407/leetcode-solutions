@@ -4,9 +4,9 @@
 # Difficulty: Easy
 # Tags     : Stack, Tree, Depth-First Search, Binary Tree
 # Runtime  : 0
-# Memory   : 19472000
+# Memory   : 19344000
 # Language : Python3
-# Solved   : 2026-07-09 07:44
+# Solved   : 2026-07-22 14:33
 # URL      : https://leetcode.com/problems/binary-tree-postorder-traversal/
 ############################################################
 # Definition for a binary tree node.
