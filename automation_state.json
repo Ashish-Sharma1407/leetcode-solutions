@@ -1046,10 +1046,10 @@
     ],
     "language": "Python3",
     "path": "topics/Stack/0145-Binary-Tree-Postorder-Traversal.py",
-    "sha": "4e334549fcfd8bc18b576613334f1658cb405c48",
+    "sha": "49b143d51e48826ad8c85a638b3d0bb5c33b0265",
     "runtime": 0,
-    "memory": 19472000,
-    "timestamp": 1783583079
+    "memory": 19344000,
+    "timestamp": 1784730828
   },
   "144": {
     "title": "Binary Tree Preorder Traversal",
