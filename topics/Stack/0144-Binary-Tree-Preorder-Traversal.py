@@ -4,9 +4,9 @@
 # Difficulty: Easy
 # Tags     : Stack, Tree, Depth-First Search, Binary Tree
 # Runtime  : 0
-# Memory   : 19308000
+# Memory   : 19288000
 # Language : Python3
-# Solved   : 2026-07-08 11:57
+# Solved   : 2026-07-22 11:06
 # URL      : https://leetcode.com/problems/binary-tree-preorder-traversal/
 ############################################################
 # Definition for a binary tree node.
@@ -24,7 +24,6 @@ class Solution:
         self.ans.append(root.val)
         self.preorder(root.left)
         self.preorder(root.right)
-
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         self.preorder(root)
         return self.ans
