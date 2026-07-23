@@ -1339,5 +1339,20 @@
     "runtime": 0,
     "memory": 19240000,
     "timestamp": 1784831911
+  },
+  "198": {
+    "title": "House Robber",
+    "slug": "house-robber",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0198-House-Robber.py",
+    "sha": "4801ec77184999efd96132147141cf4b9ded60a2",
+    "runtime": 0,
+    "memory": 19348000,
+    "timestamp": 1784838258
   }
 }
