@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-136-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-77-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-56-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-137-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-77-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
 ![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--24-blue?style=flat-square)
 
@@ -22,24 +22,24 @@
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
 | 🟢 Easy   | `77` | `█░░░░░░░░░░░░░░░░░░░` |
-| 🟡 Medium | `56` | `░░░░░░░░░░░░░░░░░░░░` |
+| 🟡 Medium | `57` | `░░░░░░░░░░░░░░░░░░░░` |
 | 🔴 Hard   | `3` | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **`136`** | — |
+| **Total** | **`137`** | — |
 
 ## 📂 Solutions in Repository
 
 | Difficulty | Count |
 |:----------:|:-----:|
 | 🟢 Easy | 52 |
-| 🟡 Medium | 33 |
+| 🟡 Medium | 34 |
 | 🔴 Hard | 0 |
-| **Total**  | **85** |
+| **Total**  | **86** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
-| Array | 41 |
+| Array | 42 |
 | Two Pointers | 20 |
 | Hash Table | 18 |
 | Sorting | 15 |
@@ -51,7 +51,7 @@
 | Stack | 8 |
 | Math | 7 |
 | Depth-First Search | 7 |
-| Dynamic Programming | 5 |
+| Dynamic Programming | 6 |
 | Breadth-First Search | 5 |
 | Matrix | 4 |
 | Divide and Conquer | 4 |
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | `0` | `19348000` | 2026-07-23 |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `0` | `19240000` | 2026-07-23 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19340000` | 2026-07-23 |
 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 Easy | `1` | `19312000` | 2026-07-22 |
@@ -78,13 +79,12 @@
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | `0` | `19140000` | 2026-07-21 |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `47` | `28652000` | 2026-07-20 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `8` | `21072000` | 2026-07-19 |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20484000` | 2026-07-19 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 24, 2026 at 01:25 AM IST
+📅 **Last updated:** July 24, 2026 at 02:29 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
