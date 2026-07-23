@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19340000` | 2026-07-23 |
 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 Easy | `1` | `19312000` | 2026-07-22 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20552000` | 2026-07-22 |
 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `0` | `19344000` | 2026-07-22 |
@@ -78,13 +79,12 @@
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `8` | `21072000` | 2026-07-19 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20484000` | 2026-07-19 |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `14` | `19132000` | 2026-07-17 |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `8` | `19256000` | 2026-07-15 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 23, 2026 at 04:53 PM IST
+📅 **Last updated:** July 23, 2026 at 06:27 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
