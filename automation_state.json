@@ -1323,5 +1323,21 @@
     "runtime": 1,
     "memory": 19312000,
     "timestamp": 1784755460
+  },
+  "70": {
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Dynamic Programming",
+      "Memoization"
+    ],
+    "language": "Python3",
+    "path": "topics/Math/0070-Climbing-Stairs.py",
+    "sha": "494a90396b4fed919731e6b3254d5c4dab210160",
+    "runtime": 0,
+    "memory": 19240000,
+    "timestamp": 1784831911
   }
 }
