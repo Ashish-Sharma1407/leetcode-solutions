@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-136-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-77-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-56-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--23-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--24-blue?style=flat-square)
 
 </div>
 
@@ -30,10 +30,10 @@
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 51 |
+| 🟢 Easy | 52 |
 | 🟡 Medium | 33 |
 | 🔴 Hard | 0 |
-| **Total**  | **84** |
+| **Total**  | **85** |
 
 ## 🏷️ Topics Covered
 
@@ -49,11 +49,11 @@
 | Linked List | 11 |
 | Binary Search | 11 |
 | Stack | 8 |
+| Math | 7 |
 | Depth-First Search | 7 |
-| Math | 6 |
+| Dynamic Programming | 5 |
 | Breadth-First Search | 5 |
 | Matrix | 4 |
-| Dynamic Programming | 4 |
 | Divide and Conquer | 4 |
 | Counting | 4 |
 | Binary Search Tree | 4 |
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `0` | `19240000` | 2026-07-23 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19340000` | 2026-07-23 |
 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 Easy | `1` | `19312000` | 2026-07-22 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20552000` | 2026-07-22 |
@@ -78,13 +79,12 @@
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `47` | `28652000` | 2026-07-20 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `8` | `21072000` | 2026-07-19 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20484000` | 2026-07-19 |
-| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `14` | `19132000` | 2026-07-17 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 23, 2026 at 11:52 PM IST
+📅 **Last updated:** July 24, 2026 at 01:25 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
