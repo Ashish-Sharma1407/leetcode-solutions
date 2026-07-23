@@ -267,10 +267,10 @@
     ],
     "language": "C++",
     "path": "topics/String/0020-Valid-Parentheses.py",
-    "sha": "0a7b6a2b46f79dfc15aa4d767f84d1ea757dff47",
+    "sha": "771d6d7e1cf684da82fb76a167a33b34e3b6e418",
     "runtime": 1,
-    "memory": 19220000,
-    "timestamp": 1783195546
+    "memory": 19340000,
+    "timestamp": 1784806887
   },
   "24": {
     "title": "Swap Nodes in Pairs",
