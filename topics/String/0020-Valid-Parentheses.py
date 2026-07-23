@@ -4,27 +4,29 @@
 # Difficulty: Easy
 # Tags     : String, Stack
 # Runtime  : 1
-# Memory   : 19220000
+# Memory   : 19340000
 # Language : Python3
-# Solved   : 2026-07-04 20:05
+# Solved   : 2026-07-23 11:41
 # URL      : https://leetcode.com/problems/valid-parentheses/
 ############################################################
 class Solution:
     def isValid(self, s: str) -> bool:
-        self.stack = []
-        if len(s) % 2 != 0:
-            return False
-        for char in list(s):
-            if char == "(" or char == "{" or char == "[":
-                self.stack.append(char)
+        stack = []
+
+        for ch in s:
+            if ch in "({[":
+                stack.append(ch)
             else:
-                if len(self.stack) == 0:
+                if not stack:
                     return False
-                item = self.stack.pop()
-                if char == "}" and item != "{":
+
+                top = stack.pop()
+
+                if ch == ')' and top != '(':
                     return False
-                elif char == "]" and item != "[":
+                if ch == '}' and top != '{':
                     return False
-                elif char == ")" and item != "(":
+                if ch == ']' and top != '[':
                     return False
-        return len(self.stack)==0
+
+        return len(stack) == 0
