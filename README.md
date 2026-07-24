@@ -69,11 +69,11 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20560000` | 2026-07-24 |
 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | `0` | `19348000` | 2026-07-23 |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `0` | `19240000` | 2026-07-23 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19340000` | 2026-07-23 |
 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 Easy | `1` | `19312000` | 2026-07-22 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20552000` | 2026-07-22 |
 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `0` | `19344000` | 2026-07-22 |
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | `0` | `19288000` | 2026-07-22 |
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | `0` | `19140000` | 2026-07-21 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** July 25, 2026 at 12:26 AM IST
+📅 **Last updated:** July 25, 2026 at 01:48 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
