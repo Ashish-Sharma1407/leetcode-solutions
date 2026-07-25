@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `82` | `22372000` | 2026-07-25 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20560000` | 2026-07-24 |
 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | `0` | `19348000` | 2026-07-23 |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `0` | `19240000` | 2026-07-23 |
@@ -78,13 +79,12 @@
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | `0` | `19288000` | 2026-07-22 |
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | `0` | `19140000` | 2026-07-21 |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `47` | `28652000` | 2026-07-20 |
-| [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `8` | `21072000` | 2026-07-19 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 25, 2026 at 10:59 PM IST
+📅 **Last updated:** July 25, 2026 at 11:58 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
