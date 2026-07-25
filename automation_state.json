@@ -603,10 +603,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0189-Rotate-Array.py",
-    "sha": "98687f97a70abc45b9e6c87649bd55fb278acda4",
-    "runtime": 6,
-    "memory": 26496000,
-    "timestamp": 1780567278
+    "sha": "852439fe9ba352c3fff469c8c047a062f2ae3bd2",
+    "runtime": 3,
+    "memory": 26528000,
+    "timestamp": 1785010803
   },
   "88": {
     "title": "Merge Sorted Array",
