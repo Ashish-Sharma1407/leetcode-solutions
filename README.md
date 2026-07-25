@@ -69,6 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `1` | `20428000` | 2026-07-25 |
+| [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `3` | `26528000` | 2026-07-25 |
 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `82` | `22372000` | 2026-07-25 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20560000` | 2026-07-24 |
 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | `0` | `19348000` | 2026-07-23 |
@@ -77,14 +79,12 @@
 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 Easy | `1` | `19312000` | 2026-07-22 |
 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `0` | `19344000` | 2026-07-22 |
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | `0` | `19288000` | 2026-07-22 |
-| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | `0` | `19140000` | 2026-07-21 |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `47` | `28652000` | 2026-07-20 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 26, 2026 at 01:14 AM IST
+📅 **Last updated:** July 26, 2026 at 02:16 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
