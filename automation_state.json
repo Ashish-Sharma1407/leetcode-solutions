@@ -70,10 +70,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0122-Best-Time-to-Buy-and-Sell-Stock-II.py",
-    "sha": "910a30b7d9002ce6217e35c0e32233ef0d78aed0",
-    "runtime": 4,
-    "memory": 20444000,
-    "timestamp": 1781869060
+    "sha": "d1d238594dbf98351f7542aacce230185c04a719",
+    "runtime": 1,
+    "memory": 20428000,
+    "timestamp": 1785011530
   },
   "121": {
     "title": "Best Time to Buy and Sell Stock",
