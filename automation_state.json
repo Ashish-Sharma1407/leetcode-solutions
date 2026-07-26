@@ -1370,5 +1370,20 @@
     "runtime": 3,
     "memory": 19208000,
     "timestamp": 1785085423
+  },
+  "1894": {
+    "title": "Merge Strings Alternately",
+    "slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "language": "Python3",
+    "path": "topics/Two-Pointers/1894-Merge-Strings-Alternately.py",
+    "sha": "a74cef79b7db51d14b4732c9de79644d61461a8a",
+    "runtime": 43,
+    "memory": 19204000,
+    "timestamp": 1785083530
   }
 }
