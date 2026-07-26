@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-137-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-77-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-139-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-79-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
 ![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--26-blue?style=flat-square)
 
@@ -21,37 +21,37 @@
 
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
-| 🟢 Easy   | `77` | `█░░░░░░░░░░░░░░░░░░░` |
+| 🟢 Easy   | `79` | `█░░░░░░░░░░░░░░░░░░░` |
 | 🟡 Medium | `57` | `░░░░░░░░░░░░░░░░░░░░` |
 | 🔴 Hard   | `3` | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **`137`** | — |
+| **Total** | **`139`** | — |
 
 ## 📂 Solutions in Repository
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 52 |
+| 🟢 Easy | 54 |
 | 🟡 Medium | 34 |
 | 🔴 Hard | 0 |
-| **Total**  | **86** |
+| **Total**  | **88** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
 | Array | 42 |
-| Two Pointers | 20 |
+| Two Pointers | 22 |
 | Hash Table | 18 |
+| String | 15 |
 | Sorting | 15 |
-| String | 13 |
 | Tree | 13 |
 | Binary Tree | 13 |
 | Linked List | 11 |
 | Binary Search | 11 |
 | Stack | 8 |
+| Dynamic Programming | 7 |
 | Math | 7 |
 | Depth-First Search | 7 |
-| Dynamic Programming | 6 |
 | Breadth-First Search | 5 |
 | Matrix | 4 |
 | Divide and Conquer | 4 |
@@ -69,6 +69,9 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `3` | `19208000` | 2026-07-26 |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | `21` | `19696000` | 2026-07-26 |
+| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | `43` | `19204000` | 2026-07-26 |
 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `1` | `20428000` | 2026-07-25 |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `3` | `26528000` | 2026-07-25 |
 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `82` | `22372000` | 2026-07-25 |
@@ -76,15 +79,12 @@
 | [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | `0` | `19348000` | 2026-07-23 |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `0` | `19240000` | 2026-07-23 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `1` | `19340000` | 2026-07-23 |
-| [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 Easy | `1` | `19312000` | 2026-07-22 |
-| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 Easy | `0` | `19344000` | 2026-07-22 |
-| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | `0` | `19288000` | 2026-07-22 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 26, 2026 at 09:28 PM IST
+📅 **Last updated:** July 26, 2026 at 10:37 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
