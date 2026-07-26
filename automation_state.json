@@ -1354,5 +1354,21 @@
     "runtime": 0,
     "memory": 19348000,
     "timestamp": 1784838258
+  },
+  "392": {
+    "title": "Is Subsequence",
+    "slug": "is-subsequence",
+    "difficulty": "Easy",
+    "tags": [
+      "Two Pointers",
+      "String",
+      "Dynamic Programming"
+    ],
+    "language": "Python3",
+    "path": "topics/Two-Pointers/0392-Is-Subsequence.py",
+    "sha": "023527fa5c77836a7d496e94a753c085c7e6f3a2",
+    "runtime": 3,
+    "memory": 19208000,
+    "timestamp": 1785085423
   }
 }
