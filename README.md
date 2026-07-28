@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19328000` | 2026-07-28 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20608000` | 2026-07-27 |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | `52` | `29320000` | 2026-07-26 |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `0` | `20612000` | 2026-07-26 |
@@ -78,13 +79,12 @@
 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `1` | `20428000` | 2026-07-25 |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `3` | `26528000` | 2026-07-25 |
 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `82` | `22372000` | 2026-07-25 |
-| [House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | `0` | `19348000` | 2026-07-23 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** July 28, 2026 at 10:28 PM IST
+📅 **Last updated:** July 28, 2026 at 11:46 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
