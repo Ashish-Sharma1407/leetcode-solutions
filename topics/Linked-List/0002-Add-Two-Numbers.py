@@ -4,9 +4,9 @@
 # Difficulty: Medium
 # Tags     : Linked List, Math, Recursion
 # Runtime  : 8
-# Memory   : 19200000
+# Memory   : 19328000
 # Language : Python3
-# Solved   : 2026-07-14 12:02
+# Solved   : 2026-07-28 18:02
 # URL      : https://leetcode.com/problems/add-two-numbers/
 ############################################################
 # Definition for singly-linked list.
