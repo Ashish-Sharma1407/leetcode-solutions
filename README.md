@@ -69,8 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20408000` | 2026-07-29 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19328000` | 2026-07-28 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20608000` | 2026-07-27 |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | `52` | `29320000` | 2026-07-26 |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `0` | `20612000` | 2026-07-26 |
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `3` | `19208000` | 2026-07-26 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** July 30, 2026 at 02:22 AM IST
+📅 **Last updated:** July 30, 2026 at 03:27 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
