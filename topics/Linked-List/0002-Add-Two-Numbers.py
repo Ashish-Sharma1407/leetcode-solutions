@@ -3,10 +3,10 @@
 # ID       : 2
 # Difficulty: Medium
 # Tags     : Linked List, Math, Recursion
-# Runtime  : 8
-# Memory   : 19328000
+# Runtime  : 0
+# Memory   : 19316000
 # Language : Python3
-# Solved   : 2026-07-28 18:02
+# Solved   : 2026-08-06 17:41
 # URL      : https://leetcode.com/problems/add-two-numbers/
 ############################################################
 # Definition for singly-linked list.
