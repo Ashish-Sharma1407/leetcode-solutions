@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-139-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-79-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--08--05-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--08--08-blue?style=flat-square)
 
 </div>
 
@@ -69,8 +69,8 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `3` | `20516000` | 2026-08-03 |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `8` | `19328000` | 2026-07-28 |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `0` | `19316000` | 2026-08-06 |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `1` | `20568000` | 2026-08-05 |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | `52` | `29320000` | 2026-07-26 |
 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `0` | `20612000` | 2026-07-26 |
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `3` | `19208000` | 2026-07-26 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** August 05, 2026 at 06:29 PM IST
+📅 **Last updated:** August 08, 2026 at 01:12 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
