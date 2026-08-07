@@ -297,10 +297,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0001-Two-Sum.py",
-    "sha": "aa377559ec1bbfd5a4a6a759cc4f219eb6c2d795",
-    "runtime": 1,
-    "memory": 20568000,
-    "timestamp": 1785952778
+    "sha": "49911ae5ef183abb50aeca57efafb471a3830b98",
+    "runtime": 0,
+    "memory": 20384000,
+    "timestamp": 1786131769
   },
   "58": {
     "title": "Length of Last Word",
