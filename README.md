@@ -69,22 +69,22 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `0` | `19444000` | 2026-09-10 |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20556000` | 2026-08-26 |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `0` | `19316000` | 2026-08-06 |
-| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | `52` | `29320000` | 2026-07-26 |
-| [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `0` | `20612000` | 2026-07-26 |
-| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | `3` | `19208000` | 2026-07-26 |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | `21` | `19696000` | 2026-07-26 |
-| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | `43` | `19204000` | 2026-07-26 |
-| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `1` | `20428000` | 2026-07-25 |
-| [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `3` | `26528000` | 2026-07-25 |
+| [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19344000` | 2026-09-10 |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `22` | `22052000` | 2026-09-10 |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `12` | `19456000` | 2026-09-10 |
+| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | `65` | `19684000` | 2026-09-10 |
+| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `0` | `19248000` | 2026-09-10 |
+| [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `7` | `22488000` | 2026-09-10 |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20400000` | 2026-09-10 |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | `11` | `19640000` | 2026-09-10 |
+| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19372000` | 2026-09-10 |
+| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | `0` | `19328000` | 2026-09-10 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** September 11, 2026 at 12:57 AM IST
+📅 **Last updated:** September 11, 2026 at 03:16 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
