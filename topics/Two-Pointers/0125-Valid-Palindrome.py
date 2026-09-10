@@ -3,10 +3,10 @@
 # ID       : 125
 # Difficulty: Easy
 # Tags     : Two Pointers, String
-# Runtime  : 21
-# Memory   : 19696000
+# Runtime  : 11
+# Memory   : 19640000
 # Language : Python3
-# Solved   : 2026-07-26 16:42
+# Solved   : 2026-09-10 20:39
 # URL      : https://leetcode.com/problems/valid-palindrome/
 ############################################################
 class Solution:
@@ -18,17 +18,18 @@ class Solution:
 
     def isPalindrome(self, s: str) -> bool:
         s = s.lower()
-        s1 = ""
-        s2 = ""
-        for ch in s:
-            ans = self.alphanumeric(ch)
-            if ans:
-                s1 += ch
-        print(s1)
-        for i in range(len(s)-1,-1,-1):
-            ans = self.alphanumeric(s[i])
-            if ans:
-                s2 += s[i]
-        return s1 == s2
+        i = 0
+        j = len(s)-1
+        while i < j:
+            if not self.alphanumeric(s[i]):
+                i += 1
+            elif not self.alphanumeric(s[j]):
+                j -= 1
+            elif s[i] == s[j]:
+                i += 1
+                j -= 1
+            else:
+                return False
+        return True
 
         
