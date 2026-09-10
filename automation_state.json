@@ -393,10 +393,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0349-Intersection-of-Two-Arrays.py",
-    "sha": "4a2f8f499f935179c4ce4115f68e8574457030e4",
+    "sha": "80498c923f0fcda5c21a9ec596324fe9a831e7d1",
     "runtime": 0,
-    "memory": 19360000,
-    "timestamp": 1782123703
+    "memory": 19248000,
+    "timestamp": 1789073762
   },
   "387": {
     "title": "First Unique Character in a String",
