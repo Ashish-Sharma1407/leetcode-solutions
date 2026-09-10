@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-139-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-79-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--09--08-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--09--11-blue?style=flat-square)
 
 </div>
 
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `0` | `19444000` | 2026-09-10 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20556000` | 2026-08-26 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `0` | `19316000` | 2026-08-06 |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 Medium | `52` | `29320000` | 2026-07-26 |
@@ -78,13 +79,12 @@
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | `43` | `19204000` | 2026-07-26 |
 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | `1` | `20428000` | 2026-07-25 |
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `3` | `26528000` | 2026-07-25 |
-| [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | `82` | `22372000` | 2026-07-25 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** September 08, 2026 at 01:45 PM IST
+📅 **Last updated:** September 11, 2026 at 12:57 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
