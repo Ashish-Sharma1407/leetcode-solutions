@@ -4,20 +4,17 @@
 # Difficulty: Easy
 # Tags     : Array, Prefix Sum
 # Runtime  : 0
-# Memory   : 19356000
+# Memory   : 19444000
 # Language : Python3
-# Solved   : 2026-06-19 08:49
+# Solved   : 2026-09-10 19:26
 # URL      : https://leetcode.com/problems/running-sum-of-1d-array/
 ############################################################
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        if len(nums) <= 0:
-            return nums
         ans = []
-        add = 0
-        for i in range(len(nums)):
-            add = add + nums[i]
-            ans.append(add)
+        ele = 0
+        for num in nums:
+            ele += num
+            ans.append(ele)
         return ans
-
         
