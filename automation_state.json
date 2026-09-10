@@ -54,10 +54,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/1791-Richest-Customer-Wealth.py",
-    "sha": "16e7c680204e4db69f611e124e785780f8b133d3",
+    "sha": "226a591240f761451b48911e321be0d6c29afb79",
     "runtime": 0,
-    "memory": 19292000,
-    "timestamp": 1781871114
+    "memory": 19328000,
+    "timestamp": 1789071477
   },
   "122": {
     "title": "Best Time to Buy and Sell Stock II",
