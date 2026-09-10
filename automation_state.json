@@ -162,10 +162,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/1603-Running-Sum-of-1d-Array.py",
-    "sha": "41914227e5a56d16b066a54b5dd604a0bd5945a0",
+    "sha": "08f276c058af681ae28869a4502e8d63787bb812",
     "runtime": 0,
-    "memory": 19356000,
-    "timestamp": 1781858966
+    "memory": 19444000,
+    "timestamp": 1789068390
   },
   "620": {
     "title": "Not Boring Movies",
