@@ -552,10 +552,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0049-Group-Anagrams.py",
-    "sha": "f7e18a03d3725dbce13c25e05314a49953751336",
-    "runtime": 15,
-    "memory": 22128000,
-    "timestamp": 1780173837
+    "sha": "11565eb2c56f92e66122384cc11c22eeda5ebfde",
+    "runtime": 22,
+    "memory": 22052000,
+    "timestamp": 1789075755
   },
   "169": {
     "title": "Majority Element",
