@@ -426,10 +426,10 @@
     ],
     "language": "Python3",
     "path": "topics/Array/0167-Two-Sum-II---Input-Array-Is-Sorted.py",
-    "sha": "7c1dbaac3be1befd3d5a2dff94b0ef2d51220d76",
-    "runtime": 0,
-    "memory": 20612000,
-    "timestamp": 1785085668
+    "sha": "1d5e4a89751ec4fbdee1acdc7cb9fb369e2b624c",
+    "runtime": 7,
+    "memory": 22488000,
+    "timestamp": 1789073545
   },
   "242": {
     "title": "Valid Anagram",
