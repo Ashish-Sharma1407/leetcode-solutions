@@ -3,10 +3,10 @@
 # ID       : 160
 # Difficulty: Easy
 # Tags     : Hash Table, Linked List, Two Pointers
-# Runtime  : 109
-# Memory   : 38264000
+# Runtime  : 112
+# Memory   : 37996000
 # Language : Python3
-# Solved   : 2026-07-01 17:26
+# Solved   : 2026-09-11 21:48
 # URL      : https://leetcode.com/problems/intersection-of-two-linked-lists/
 ############################################################
 # Definition for singly-linked list.
@@ -19,22 +19,21 @@ class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
         p1 = headA
         p2 = headB
-        
-        p1 = headA
-        p2 = headB
+        cnt = 0
 
-        while p1 != p2:
-            if p1 is None:
-                p1 = headB
-            else:
-                p1 = p1.next
+        while True:
 
-            if p2 is None:
-                p2 = headA
-            else:
-                p2 = p2.next
-
-        return p1
-
+            if p1 == p2:
+                return p1
             
-        
+            p1 = p1.next
+            p2 = p2.next
+
+            if p1 == None:
+                p1 = headB
+                cnt += 1
+            if p2 == None:
+                p2 = headA
+            
+            if cnt > 1:
+                return None
