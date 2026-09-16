@@ -681,10 +681,10 @@
     ],
     "language": "Python3",
     "path": "topics/Hash-Table/0003-Longest-Substring-Without-Repeating-Characters.py",
-    "sha": "43c5981da186e10a6332088d84140f9516355799",
-    "runtime": 8,
-    "memory": 19256000,
-    "timestamp": 1784134588
+    "sha": "2e725339cfa936b400e72582cff0da9c3f175551",
+    "runtime": 233,
+    "memory": 19744000,
+    "timestamp": 1789500098
   },
   "948": {
     "title": "Sort an Array",
