@@ -1598,5 +1598,19 @@
     "runtime": 506,
     "memory": 0,
     "timestamp": 1789589951
+  },
+  "577": {
+    "title": "Employee Bonus",
+    "slug": "employee-bonus",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0577-Employee-Bonus.py",
+    "sha": "3a3781008c320f80580324aeb0fd389c66446854",
+    "runtime": 1154,
+    "memory": 0,
+    "timestamp": 1789588966
   }
 }
