@@ -885,10 +885,10 @@
     ],
     "language": "Python3",
     "path": "topics/Linked-List/0083-Remove-Duplicates-from-Sorted-List.py",
-    "sha": "ed5ef657bdf848337a2760350ac940d8b866e4f6",
+    "sha": "cd341f9ad218ee2a00a226217c19eac441ba1b8c",
     "runtime": 0,
-    "memory": 19216000,
-    "timestamp": 1782904724
+    "memory": 19432000,
+    "timestamp": 1789157756
   },
   "19": {
     "title": "Remove Nth Node From End of List",
