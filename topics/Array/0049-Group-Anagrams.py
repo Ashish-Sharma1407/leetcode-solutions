@@ -3,10 +3,10 @@
 # ID       : 49
 # Difficulty: Medium
 # Tags     : Array, Hash Table, String, Sorting
-# Runtime  : 22
-# Memory   : 22052000
+# Runtime  : 16
+# Memory   : 22148000
 # Language : Python3
-# Solved   : 2026-09-10 21:29
+# Solved   : 2026-09-15 19:22
 # URL      : https://leetcode.com/problems/group-anagrams/
 ############################################################
 class Solution:
