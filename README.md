@@ -11,9 +11,9 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-139-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-79-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-57-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-147-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-86-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-58-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--09--12-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--09--16-blue?style=flat-square)
 
 </div>
 
@@ -21,33 +21,34 @@
 
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
-| 🟢 Easy   | `79` | `█░░░░░░░░░░░░░░░░░░░` |
-| 🟡 Medium | `57` | `░░░░░░░░░░░░░░░░░░░░` |
+| 🟢 Easy   | `86` | `██░░░░░░░░░░░░░░░░░░` |
+| 🟡 Medium | `58` | `░░░░░░░░░░░░░░░░░░░░` |
 | 🔴 Hard   | `3` | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **`139`** | — |
+| **Total** | **`147`** | — |
 
 ## 📂 Solutions in Repository
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 54 |
-| 🟡 Medium | 35 |
+| 🟢 Easy | 61 |
+| 🟡 Medium | 36 |
 | 🔴 Hard | 0 |
-| **Total**  | **89** |
+| **Total**  | **97** |
 
 ## 🏷️ Topics Covered
 
 | Topic | Problems Solved |
 |:------|:---------------:|
 | Array | 43 |
-| Two Pointers | 23 |
+| Two Pointers | 24 |
 | Hash Table | 18 |
 | String | 15 |
 | Sorting | 15 |
 | Tree | 13 |
 | Binary Tree | 13 |
-| Linked List | 11 |
+| Linked List | 12 |
 | Binary Search | 11 |
+| Database | 9 |
 | Stack | 8 |
 | Dynamic Programming | 7 |
 | Math | 7 |
@@ -62,29 +63,28 @@
 | Bit Manipulation | 3 |
 | Recursion | 3 |
 | Heap (Priority Queue) | 3 |
-| Database | 2 |
 | Design | 2 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `0` | `20440000` | 2026-09-11 |
-| [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | 🟢 Easy | `0` | `19344000` | 2026-09-10 |
-| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `22` | `22052000` | 2026-09-10 |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | `12` | `19456000` | 2026-09-10 |
-| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | `65` | `19684000` | 2026-09-10 |
-| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | `0` | `19248000` | 2026-09-10 |
-| [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | `7` | `22488000` | 2026-09-10 |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | `11` | `19640000` | 2026-09-10 |
-| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | `0` | `19372000` | 2026-09-10 |
-| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | `0` | `19328000` | 2026-09-10 |
+| [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | `1428` | `0` | 2026-09-15 |
+| [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 Easy | `1393` | `0` | 2026-09-15 |
+| [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | `1132` | `0` | 2026-09-15 |
+| [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | `901` | `0` | 2026-09-15 |
+| [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | `471` | `0` | 2026-09-15 |
+| [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | `286` | `0` | 2026-09-15 |
+| [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | `513` | `0` | 2026-09-15 |
+| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | `611` | `0` | 2026-09-15 |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | `16` | `22148000` | 2026-09-15 |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | `233` | `19744000` | 2026-09-15 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** September 12, 2026 at 12:55 AM IST
+📅 **Last updated:** September 16, 2026 at 10:41 PM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
