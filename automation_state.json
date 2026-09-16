@@ -633,10 +633,10 @@
     ],
     "language": "Python3",
     "path": "topics/Linked-List/0237-Delete-Node-in-a-Linked-List.py",
-    "sha": "d5e7ec1117fc9fcad6cd23d3af7243297fe70614",
-    "runtime": 43,
-    "memory": 19484000,
-    "timestamp": 1782899113
+    "sha": "4bd3a38e82d787c29c4949e27fe2f7f4016b381a",
+    "runtime": 45,
+    "memory": 19744000,
+    "timestamp": 1789157010
   },
   "908": {
     "title": "Middle of the Linked List",
