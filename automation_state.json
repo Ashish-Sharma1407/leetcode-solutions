@@ -871,10 +871,10 @@
     ],
     "language": "Python3",
     "path": "topics/Linked-List/0206-Reverse-Linked-List.py",
-    "sha": "183d65be36711012f229308858979953bc5663e5",
+    "sha": "286df8f384b36fb872482a0d8a5375f29f23212b",
     "runtime": 0,
-    "memory": 20432000,
-    "timestamp": 1782906082
+    "memory": 20368000,
+    "timestamp": 1789160611
   },
   "83": {
     "title": "Remove Duplicates from Sorted List",
