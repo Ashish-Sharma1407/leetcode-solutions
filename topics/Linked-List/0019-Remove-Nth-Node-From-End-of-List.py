@@ -4,9 +4,9 @@
 # Difficulty: Medium
 # Tags     : Linked List, Two Pointers
 # Runtime  : 0
-# Memory   : 19304000
+# Memory   : 19292000
 # Language : Python3
-# Solved   : 2026-07-01 10:39
+# Solved   : 2026-09-11 20:00
 # URL      : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 ############################################################
 # Definition for singly-linked list.
@@ -16,19 +16,18 @@
 #         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        p1 = head
-        p2 = head
-        for i in range(n):
-            p2 = p2.next
-
-        if p2 == None:
-            head = p1.next
-            return head
-
-        while p2.next != None:
-            p1 = p1.next
-            p2 = p2.next
+        temp = head
+        cnt = 0
+        while temp != None:
+            temp = temp.next
+            cnt += 1
         
-        p1.next = p1.next.next
+        temp = head
+        place = cnt - n
+        if place == 0:
+            return head.next
+        for i in range(1,place):
+            temp = temp.next
+        
+        temp.next = temp.next.next
         return head
-        
