@@ -1485,5 +1485,19 @@
     "runtime": 513,
     "memory": 0,
     "timestamp": 1789504751
+  },
+  "1908": {
+    "title": "Recyclable and Low Fat Products",
+    "slug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/1908-Recyclable-and-Low-Fat-Products.py",
+    "sha": "4e211059439f182a1b0bbc75d596208a52c25195",
+    "runtime": 611,
+    "memory": 0,
+    "timestamp": 1789504294
   }
 }
