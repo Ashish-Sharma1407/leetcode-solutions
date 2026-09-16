@@ -1514,5 +1514,19 @@
     "runtime": 0,
     "memory": 19276000,
     "timestamp": 1789160407
+  },
+  "183": {
+    "title": "Customers Who Never Order",
+    "slug": "customers-who-never-order",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0183-Customers-Who-Never-Order.py",
+    "sha": "d69adf9f64991c50e94a8ddfc12ed6cf4a4ebf69",
+    "runtime": 639,
+    "memory": 0,
+    "timestamp": 1789581741
   }
 }
