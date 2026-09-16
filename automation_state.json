@@ -190,10 +190,10 @@
     ],
     "language": "MySQL",
     "path": "topics/Database/0595-Big-Countries.py",
-    "sha": "232c6dcdf03748d67f8f4d43a3095e88a659d52f",
-    "runtime": 266,
+    "sha": "465881b243ec82c5fb08525ca9ddfce4ce7b0882",
+    "runtime": 286,
     "memory": 0,
-    "timestamp": 1760082982
+    "timestamp": 1789505171
   },
   "136": {
     "title": "Single Number",
