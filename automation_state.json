@@ -1415,5 +1415,19 @@
     "runtime": 1428,
     "memory": 0,
     "timestamp": 1789508954
+  },
+  "1153": {
+    "title": "Product Sales Analysis I",
+    "slug": "product-sales-analysis-i",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/1153-Product-Sales-Analysis-I.py",
+    "sha": "3a1c41b772da8cf5773813975499496919bf4a41",
+    "runtime": 1393,
+    "memory": 0,
+    "timestamp": 1789506713
   }
 }
