@@ -1542,5 +1542,19 @@
     "runtime": 484,
     "memory": 0,
     "timestamp": 1789581565
+  },
+  "175": {
+    "title": "Combine Two Tables",
+    "slug": "combine-two-tables",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0175-Combine-Two-Tables.py",
+    "sha": "f819a6f07740802c3b64e2fcc8df3b173ce2a480",
+    "runtime": 537,
+    "memory": 0,
+    "timestamp": 1789580759
   }
 }
