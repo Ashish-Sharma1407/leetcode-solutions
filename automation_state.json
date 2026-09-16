@@ -915,10 +915,10 @@
     ],
     "language": "Python3",
     "path": "topics/Linked-List/0061-Rotate-List.py",
-    "sha": "312d6710d7a782c03e405b3080590041bb81d50b",
+    "sha": "786f64635458fe1ce5be3a954b0bab9100216848",
     "runtime": 0,
-    "memory": 19412000,
-    "timestamp": 1782912063
+    "memory": 19388000,
+    "timestamp": 1789161395
   },
   "160": {
     "title": "Intersection of Two Linked Lists",
