@@ -3,10 +3,10 @@
 # ID       : 387
 # Difficulty: Easy
 # Tags     : Hash Table, String, Queue, Counting
-# Runtime  : 65
-# Memory   : 19684000
+# Runtime  : 67
+# Memory   : 19528000
 # Language : Python3
-# Solved   : 2026-09-10 21:14
+# Solved   : 2026-09-13 03:57
 # URL      : https://leetcode.com/problems/first-unique-character-in-a-string/
 ############################################################
 class Solution:
@@ -18,14 +18,8 @@ class Solution:
             else:
                 dic.update({char: 1})
         
-        ans = ""
-        for key in dic.keys():
-            if dic[key] == 1:
-                ans += key
-                break
-        
-        for char in s:
-            if char == ans:
-                return s.index(char)
-        
+        for i, char in enumerate(s):
+            if dic[char] == 1:
+                return i
         return -1
+        
