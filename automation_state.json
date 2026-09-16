@@ -1457,5 +1457,19 @@
     "runtime": 901,
     "memory": 0,
     "timestamp": 1789505671
+  },
+  "1258": {
+    "title": "Article Views I",
+    "slug": "article-views-i",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/1258-Article-Views-I.py",
+    "sha": "b57e933b86cdbd33c624e92ef2964c9dc30aa05e",
+    "runtime": 471,
+    "memory": 0,
+    "timestamp": 1789505514
   }
 }
