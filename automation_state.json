@@ -1584,5 +1584,19 @@
     "runtime": 308,
     "memory": 0,
     "timestamp": 1789590647
+  },
+  "586": {
+    "title": "Customer Placing the Largest Number of Orders",
+    "slug": "customer-placing-the-largest-number-of-orders",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0586-Customer-Placing-the-Largest-Number-of-Orders.py",
+    "sha": "2c2f734a5dac028b4cd971cb2d97efb58c725f59",
+    "runtime": 506,
+    "memory": 0,
+    "timestamp": 1789589951
   }
 }
