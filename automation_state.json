@@ -410,10 +410,10 @@
     ],
     "language": "Python3",
     "path": "topics/Hash-Table/0387-First-Unique-Character-in-a-String.py",
-    "sha": "a68b11c9494bbb355ba9d6893eccac82cffa551a",
-    "runtime": 65,
-    "memory": 19684000,
-    "timestamp": 1789074871
+    "sha": "efff0ee5eb7061e18354ddcd5c83846f941f9ecc",
+    "runtime": 67,
+    "memory": 19528000,
+    "timestamp": 1789271842
   },
   "167": {
     "title": "Two Sum II - Input Array Is Sorted",
