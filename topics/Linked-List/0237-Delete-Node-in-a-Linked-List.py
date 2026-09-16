@@ -3,10 +3,10 @@
 # ID       : 237
 # Difficulty: Medium
 # Tags     : Linked List
-# Runtime  : 43
-# Memory   : 19484000
+# Runtime  : 45
+# Memory   : 19744000
 # Language : Python3
-# Solved   : 2026-07-01 09:45
+# Solved   : 2026-09-11 20:03
 # URL      : https://leetcode.com/problems/delete-node-in-a-linked-list/
 ############################################################
 # Definition for singly-linked list.
@@ -21,7 +21,5 @@ class Solution:
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
-
         node.val = node.next.val
         node.next = node.next.next
-        
