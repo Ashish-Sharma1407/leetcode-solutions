@@ -1471,5 +1471,19 @@
     "runtime": 471,
     "memory": 0,
     "timestamp": 1789505514
+  },
+  "584": {
+    "title": "Find Customer Referee",
+    "slug": "find-customer-referee",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0584-Find-Customer-Referee.py",
+    "sha": "c10fa51897f20e5c6ab8096ddd5a35910fbd336b",
+    "runtime": 513,
+    "memory": 0,
+    "timestamp": 1789504751
   }
 }
