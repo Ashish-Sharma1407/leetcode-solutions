@@ -1443,5 +1443,19 @@
     "runtime": 1132,
     "memory": 0,
     "timestamp": 1789506188
+  },
+  "1827": {
+    "title": "Invalid Tweets",
+    "slug": "invalid-tweets",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/1827-Invalid-Tweets.py",
+    "sha": "54a07fa16e840f57b1261b63616ed9837265cd2a",
+    "runtime": 901,
+    "memory": 0,
+    "timestamp": 1789505671
   }
 }
