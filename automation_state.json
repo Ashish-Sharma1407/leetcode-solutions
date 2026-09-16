@@ -1570,5 +1570,19 @@
     "runtime": 379,
     "memory": 0,
     "timestamp": 1789591044
+  },
+  "596": {
+    "title": "Classes With at Least 5 Students",
+    "slug": "classes-with-at-least-5-students",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0596-Classes-With-at-Least-5-Students.py",
+    "sha": "cae2e19fedf0e562cb7c28e4a4dfa62909d0accc",
+    "runtime": 308,
+    "memory": 0,
+    "timestamp": 1789590647
   }
 }
