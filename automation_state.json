@@ -1429,5 +1429,19 @@
     "runtime": 1393,
     "memory": 0,
     "timestamp": 1789506713
+  },
+  "1509": {
+    "title": "Replace Employee ID With The Unique Identifier",
+    "slug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/1509-Replace-Employee-ID-With-The-Unique-Identifier.py",
+    "sha": "c097ae8785dfd8eb194b98cc0d6d48f97d8355f8",
+    "runtime": 1132,
+    "memory": 0,
+    "timestamp": 1789506188
   }
 }
