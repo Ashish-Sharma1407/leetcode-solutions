@@ -1401,5 +1401,19 @@
     "runtime": 52,
     "memory": 29320000,
     "timestamp": 1785086834
+  },
+  "1724": {
+    "title": "Customer Who Visited but Did Not Make Any Transactions",
+    "slug": "customer-who-visited-but-did-not-make-any-transactions",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/1724-Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.py",
+    "sha": "8ae55a5ca9948210ba2ba75f6eb3fc7381955e8a",
+    "runtime": 1428,
+    "memory": 0,
+    "timestamp": 1789508954
   }
 }
