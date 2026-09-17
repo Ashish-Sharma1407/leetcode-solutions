@@ -2,11 +2,11 @@
 # Problem  : Valid Parentheses
 # ID       : 20
 # Difficulty: Easy
-# Tags     : String, Stack
-# Runtime  : 1
-# Memory   : 19340000
+# Tags     : String, Stack, Bracket Sequences
+# Runtime  : 0
+# Memory   : 19212000
 # Language : Python3
-# Solved   : 2026-07-23 11:41
+# Solved   : 2026-09-17 20:56
 # URL      : https://leetcode.com/problems/valid-parentheses/
 ############################################################
 class Solution:
