@@ -1612,5 +1612,19 @@
     "runtime": 1154,
     "memory": 0,
     "timestamp": 1789588966
+  },
+  "197": {
+    "title": "Rising Temperature",
+    "slug": "rising-temperature",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/0197-Rising-Temperature.py",
+    "sha": "8dd5e1e0520b9a96ad55781bf2da6090f8cf9ac4",
+    "runtime": 368,
+    "memory": 0,
+    "timestamp": 1789594986
   }
 }
