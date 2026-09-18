@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-155-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-94-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-58-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--09--18-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--09--19-blue?style=flat-square)
 
 </div>
 
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `52` | `31364000` | 2026-09-18 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `0` | `19212000` | 2026-09-17 |
 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | `368` | `0` | 2026-09-16 |
 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | 🟢 Easy | `379` | `0` | 2026-09-16 |
@@ -78,13 +79,12 @@
 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | `639` | `0` | 2026-09-16 |
 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | `484` | `0` | 2026-09-16 |
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | `537` | `0` | 2026-09-16 |
-| [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | 🟢 Easy | `1428` | `0` | 2026-09-15 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** September 18, 2026 at 11:32 PM IST
+📅 **Last updated:** September 19, 2026 at 02:36 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
