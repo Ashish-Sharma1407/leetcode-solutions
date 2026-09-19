@@ -1626,5 +1626,19 @@
     "runtime": 368,
     "memory": 0,
     "timestamp": 1789594986
+  },
+  "1801": {
+    "title": "Average Time of Process per Machine",
+    "slug": "average-time-of-process-per-machine",
+    "difficulty": "Easy",
+    "tags": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "path": "topics/Database/1801-Average-Time-of-Process-per-Machine.py",
+    "sha": "23bf2da1f9d75762216470273dd0cd2bcda10d21",
+    "runtime": 253,
+    "memory": 0,
+    "timestamp": 1789848974
   }
 }
