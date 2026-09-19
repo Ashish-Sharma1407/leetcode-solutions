@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-155-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-94-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-58-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-156-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-95-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-58-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
 ![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--09--20-blue?style=flat-square)
 
@@ -21,19 +21,19 @@
 
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
-| 🟢 Easy   | `94` | `██░░░░░░░░░░░░░░░░░░` |
+| 🟢 Easy   | `95` | `██░░░░░░░░░░░░░░░░░░` |
 | 🟡 Medium | `58` | `░░░░░░░░░░░░░░░░░░░░` |
 | 🔴 Hard   | `3` | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **`155`** | — |
+| **Total** | **`156`** | — |
 
 ## 📂 Solutions in Repository
 
 | Difficulty | Count |
 |:----------:|:-----:|
-| 🟢 Easy | 69 |
+| 🟢 Easy | 70 |
 | 🟡 Medium | 36 |
 | 🔴 Hard | 0 |
-| **Total**  | **105** |
+| **Total**  | **106** |
 
 ## 🏷️ Topics Covered
 
@@ -41,8 +41,8 @@
 |:------|:---------------:|
 | Array | 43 |
 | Two Pointers | 24 |
+| Database | 18 |
 | Hash Table | 18 |
-| Database | 17 |
 | String | 15 |
 | Sorting | 15 |
 | Tree | 13 |
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | `253` | `0` | 2026-09-19 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `52` | `31364000` | 2026-09-18 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `0` | `19212000` | 2026-09-17 |
 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | `368` | `0` | 2026-09-16 |
@@ -78,13 +79,12 @@
 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | `1154` | `0` | 2026-09-16 |
 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | `639` | `0` | 2026-09-16 |
 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | `484` | `0` | 2026-09-16 |
-| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | `537` | `0` | 2026-09-16 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** September 20, 2026 at 01:29 AM IST
+📅 **Last updated:** September 20, 2026 at 03:47 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
