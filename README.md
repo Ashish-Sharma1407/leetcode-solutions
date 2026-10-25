@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-156-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-95-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-58-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--10--25-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--10--26-blue?style=flat-square)
 
 </div>
 
@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20444000` | 2026-10-25 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20304000` | 2026-10-23 |
 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | `253` | `0` | 2026-09-19 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `52` | `31364000` | 2026-09-18 |
@@ -78,13 +79,12 @@
 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 Easy | `308` | `0` | 2026-09-16 |
 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | `506` | `0` | 2026-09-16 |
 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | `1154` | `0` | 2026-09-16 |
-| [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | `639` | `0` | 2026-09-16 |
 
 ---
 
 <div align="center">
 
-📅 **Last updated:** October 25, 2026 at 10:53 PM IST
+📅 **Last updated:** October 26, 2026 at 01:21 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
