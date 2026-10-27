@@ -69,11 +69,11 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `46` | `31076000` | 2026-10-27 |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `52` | `28772000` | 2026-10-26 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20444000` | 2026-10-25 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `2` | `20304000` | 2026-10-23 |
 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | `253` | `0` | 2026-09-19 |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `52` | `31364000` | 2026-09-18 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `0` | `19212000` | 2026-09-17 |
 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | `368` | `0` | 2026-09-16 |
 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | 🟢 Easy | `379` | `0` | 2026-09-16 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** October 28, 2026 at 12:41 AM IST
+📅 **Last updated:** October 28, 2026 at 04:33 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
