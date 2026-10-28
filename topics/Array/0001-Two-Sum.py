@@ -3,19 +3,19 @@
 # ID       : 1
 # Difficulty: Easy
 # Tags     : Array, Hash Table
-# Runtime  : 2
-# Memory   : 20304000
+# Runtime  : 1
+# Memory   : 20500000
 # Language : Python3
-# Solved   : 2026-10-23 09:55
+# Solved   : 2026-10-28 19:57
 # URL      : https://leetcode.com/problems/two-sum/
 ############################################################
 class Solution:
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         dic = {}
         for i in range(len(nums)):
-            if target-nums[i] in dic:
-                return [dic[target-nums[i]], i]
+            if target - nums[i] in dic:
+                return [i,dic[target - nums[i]]]
             else:
-                dic.update({nums[i]: i})
-
+                dic.update({nums[i]:i})
+        return [-1,-1]
         
