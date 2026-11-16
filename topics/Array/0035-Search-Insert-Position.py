@@ -4,9 +4,9 @@
 # Difficulty: Easy
 # Tags     : Array, Binary Search
 # Runtime  : 0
-# Memory   : 19964000
+# Memory   : 19692000
 # Language : Python3
-# Solved   : 2026-06-29 21:30
+# Solved   : 2026-11-06 20:41
 # URL      : https://leetcode.com/problems/search-insert-position/
 ############################################################
 class Solution:
