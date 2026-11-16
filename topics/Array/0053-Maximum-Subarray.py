@@ -3,10 +3,10 @@
 # ID       : 53
 # Difficulty: Medium
 # Tags     : Array, Divide and Conquer, Dynamic Programming
-# Runtime  : 46
-# Memory   : 31076000
+# Runtime  : 42
+# Memory   : 31100000
 # Language : Python3
-# Solved   : 2026-10-27 19:48
+# Solved   : 2026-10-29 18:28
 # URL      : https://leetcode.com/problems/maximum-subarray/
 ############################################################
 class Solution:
