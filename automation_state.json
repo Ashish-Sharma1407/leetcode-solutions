@@ -1640,5 +1640,20 @@
     "runtime": 253,
     "memory": 0,
     "timestamp": 1789848974
+  },
+  "27": {
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "language": "Python",
+    "path": "topics/Array/0027-Remove-Element.py",
+    "sha": "131da0b372d67f39d1a572cdb0e91dffe7ac5331",
+    "runtime": 0,
+    "memory": 12228000,
+    "timestamp": 1793909832
   }
 }
