@@ -4,9 +4,9 @@
 # Difficulty: Easy
 # Tags     : String, Stack, Bracket Sequences
 # Runtime  : 0
-# Memory   : 19212000
+# Memory   : 19232000
 # Language : Python3
-# Solved   : 2026-09-17 20:56
+# Solved   : 2026-11-03 19:42
 # URL      : https://leetcode.com/problems/valid-parentheses/
 ############################################################
 class Solution:
