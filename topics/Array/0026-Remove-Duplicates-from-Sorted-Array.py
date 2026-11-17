@@ -3,19 +3,18 @@
 # ID       : 26
 # Difficulty: Easy
 # Tags     : Array, Two Pointers
-# Runtime  : 0
-# Memory   : 20444000
+# Runtime  : 1
+# Memory   : 20204000
 # Language : Python3
-# Solved   : 2026-10-25 19:48
+# Solved   : 2026-11-16 20:00
 # URL      : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 ############################################################
 class Solution:
-    def removeDuplicates(self, nums: list[int]) -> int:
-        i = 0
-        j = 0
-        for j in range(len(nums)):
-            if nums[j] != nums[i]:
-                i += 1
-                nums[i], nums[j] = nums[j], nums[i]
-        return i+1
+    def removeDuplicates(self, nums: List[int]) -> int:
+        start = 0
+        for i in range(len(nums)):
+            if nums[i] != nums[start]:
+                start += 1
+                nums[start], nums[i] = nums[i], nums[start]
+        return start+1
         
