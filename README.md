@@ -69,6 +69,7 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `1` | `20204000` | 2026-11-16 |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | `0` | `19692000` | 2026-11-06 |
 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | `0` | `12228000` | 2026-11-05 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `1` | `20076000` | 2026-11-04 |
@@ -76,7 +77,6 @@
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `6` | `19072000` | 2026-10-30 |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `42` | `31100000` | 2026-10-29 |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `52` | `28772000` | 2026-10-26 |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `0` | `20444000` | 2026-10-25 |
 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | `253` | `0` | 2026-09-19 |
 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | `368` | `0` | 2026-09-16 |
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** November 17, 2026 at 01:22 AM IST
+📅 **Last updated:** November 17, 2026 at 07:47 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
