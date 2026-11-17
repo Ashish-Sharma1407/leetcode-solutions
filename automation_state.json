@@ -1655,5 +1655,20 @@
     "runtime": 0,
     "memory": 12228000,
     "timestamp": 1793909832
+  },
+  "21": {
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ],
+    "language": "Python3",
+    "path": "topics/Linked-List/0021-Merge-Two-Sorted-Lists.py",
+    "sha": "5c7b1a09be5a5cfdd39e90b1c8782688322ef42c",
+    "runtime": 0,
+    "memory": 19268000,
+    "timestamp": 1794943235
   }
 }
