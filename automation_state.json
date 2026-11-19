@@ -1670,5 +1670,20 @@
     "runtime": 0,
     "memory": 19268000,
     "timestamp": 1794943235
+  },
+  "643": {
+    "title": "Maximum Average Subarray I",
+    "slug": "maximum-average-subarray-i",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Sliding Window"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/0643-Maximum-Average-Subarray-I.py",
+    "sha": "48b8a1565b4f5db71b714ddd29c3d4cfb6bb4343",
+    "runtime": 69,
+    "memory": 29472000,
+    "timestamp": 1795034582
   }
 }
