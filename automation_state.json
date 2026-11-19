@@ -1685,5 +1685,21 @@
     "runtime": 69,
     "memory": 29472000,
     "timestamp": 1795034582
+  },
+  "1256": {
+    "title": "Rank Transform of an Array",
+    "slug": "rank-transform-of-an-array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ],
+    "language": "Python3",
+    "path": "topics/Array/1256-Rank-Transform-of-an-Array.py",
+    "sha": "9fa532e476e0b8c1b1e1f99bcd5c2d32aa6f4a8f",
+    "runtime": 64,
+    "memory": 37568000,
+    "timestamp": 1795032784
   }
 }
