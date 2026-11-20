@@ -1651,10 +1651,10 @@
     ],
     "language": "Python",
     "path": "topics/Array/0027-Remove-Element.py",
-    "sha": "131da0b372d67f39d1a572cdb0e91dffe7ac5331",
+    "sha": "edc6f09152db4059aa4a6fd058c91c305d682b77",
     "runtime": 0,
-    "memory": 12228000,
-    "timestamp": 1793909832
+    "memory": 12260000,
+    "timestamp": 1795118805
   },
   "21": {
     "title": "Merge Two Sorted Lists",
