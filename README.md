@@ -13,7 +13,7 @@
 
 ![Total Solved](https://img.shields.io/badge/Total%20Solved-158-0a0a0a?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-97-00b8a3?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-58-ffc01e?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat-square)
 
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--11--19-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat-square) ![Auto%20Sync](https://img.shields.io/badge/Auto%20Sync-Active-28a745?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--11--20-blue?style=flat-square)
 
 </div>
 
@@ -69,12 +69,12 @@
 
 | Problem | Difficulty | Runtime | Memory | Date |
 |:--------|:----------:|:-------:|:------:|:----:|
+| [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | `0` | `12260000` | 2026-11-19 |
 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | `69` | `29472000` | 2026-11-18 |
 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | 🟢 Easy | `64` | `37568000` | 2026-11-18 |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | `0` | `19268000` | 2026-11-17 |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `1` | `20204000` | 2026-11-16 |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | `0` | `19692000` | 2026-11-06 |
-| [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | `0` | `12228000` | 2026-11-05 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `1` | `20076000` | 2026-11-04 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | `0` | `19232000` | 2026-11-03 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `6` | `19072000` | 2026-10-30 |
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-📅 **Last updated:** November 19, 2026 at 11:58 PM IST
+📅 **Last updated:** November 20, 2026 at 06:19 AM IST
 
 *This repository is automatically maintained using a custom Python automation system.*
 *Solutions are pushed within minutes of being accepted on LeetCode.*
